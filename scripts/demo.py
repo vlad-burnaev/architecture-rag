@@ -229,7 +229,7 @@ def run_demo_with_responses():
     results.append(summary)
     
     # Save results
-    filename = "task5_demo_results.txt"
+    filename = "demo_results.txt"
     with open(filename, 'w', encoding='utf-8') as f:
         f.write("="*80 + "\n")
         f.write("ЗАДАНИЕ 5: ДЕМОНСТРАЦИЯ RAG-БОТА\n")
