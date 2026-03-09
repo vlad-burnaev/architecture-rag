@@ -1,4 +1,4 @@
-.PHONY: help setup clean clean-all show-docs show-terms build-index rebuild-kb test-search stats run-bot demo-bot test-security task5-test task5-demo
+.PHONY: help setup clean clean-all build-index rebuild-kb stats run-bot demo
 
 # Цвета для вывода
 RED=\033[0;31m
@@ -132,18 +132,9 @@ check: ## Проверить состояние проекта
 	@echo ""
 
 # Тестирование безопасности (Задание 5)
-test-security:  ## Тест защиты от prompt injection
-	@echo "$(BLUE)Тестирование защиты RAG-бота...$(NC)"
-	@. .venv/bin/activate && python scripts/test_security.py
-
-task5-test:  ## Полное тестирование задания 5 (10 запросов)
-	@echo "$(BLUE)Запуск полного тестирования (5 успешных + 5 отказов)...$(NC)"
-	@. .venv/bin/activate && python scripts/task5_test.py
-	@echo "$(GREEN)Результаты сохранены в: task5_test_results.txt$(NC)"
-
-task5-demo:  ## Демонстрация с полными ответами бота (требует API ключ)
-	@echo "$(BLUE)Запуск демонстрации с полными ответами...$(NC)"
-	@. .venv/bin/activate && python scripts/task5_demo.py
+demo:  ## Демонстрация RAG-бота с полными ответами (требует API ключ)
+	@echo "$(BLUE)Запуск демонстрации RAG-бота...$(NC)"
+	@. .venv/bin/activate && python scripts/demo.py
 	@echo "$(GREEN)Результаты сохранены в: task5_demo_results.txt$(NC)"
 
 # По умолчанию показываем help
