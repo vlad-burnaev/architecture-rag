@@ -1,0 +1,155 @@
+# Attribute System
+
+The Attribute System allows players to enchant weapons and armor with elemental properties. Each element provides bonuses against specific targets and creates a rock-paper-scissors dynamic in combat.
+
+## Six Elements
+The game features six elements in opposed pairs:
+
+### Fire vs Water
+- Fire: Bonus damage against water
+- Water: Bonus damage against fire
+- Fire: Aggressive, high damage
+- Water: Defensive, resistance
+
+### Wind vs Earth  
+- Wind: Bonus damage against earth
+- Earth: Bonus damage against wind
+- Wind: Speed and evasion
+- Earth: Stability and defense
+
+### Holy vs Dark
+- Holy: Bonus damage against dark
+- Dark: Bonus damage against holy
+- Holy: Healing and protection
+- Dark: Curses and drains
+
+## Attribute Stones
+Used to add attributes to equipment:
+- Dropped by monsters (rare)
+- Obtained from raids
+- Special events
+- Player trading
+- Different grades (D to S)
+
+## Enchanting Process
+Adding attributes to equipment:
+1. Obtain attribute stones
+2. Use stone on weapon or armor
+3. Attribute level increases
+4. Success always guaranteed
+5. Cumulative effect builds
+
+## Weapon Attributes
+Weapons gain offensive bonuses:
+- Adds elemental damage
+- Level determines strength (+1 to +300)
+- Strong against opposite element
+- Neutral against same element
+- Weak against counter element
+
+## Armor Attributes
+Armor gains defensive bonuses:
+- Increases elemental defense
+- Reduces damage from that element
+- Level determines protection
+- Can have multiple elements
+- Each piece enchanted separately
+
+## Attribute Levels
+Weapons:
+- +1 to +150: Normal progression
+- +151 to +300: High investment
+- Each +1 adds elemental attack
+- Diminishing returns at high levels
+
+Armor:
+- +1 to +60: Normal for each piece
+- +61 to +120: Advanced protection
+- Full set can have high total
+- Multiple elements possible
+
+## Element Bonuses
+Damage calculation:
+- Strong match (fire vs water): +bonus damage
+- Neutral match: Normal damage
+- Weak match (fire vs fire): Reduced effectiveness
+- Counter match (fire vs earth): Neutral
+
+## Strategic Choices
+Players must consider:
+- Enemy element weaknesses
+- PvP opponent trends
+- PvE area elements
+- Cost of stones
+- Long-term investment
+
+## Monster Elements
+Enemies have natural elements:
+- Undead: Often dark element
+- Dragons: Various elements
+- Elementals: Pure single element
+- Demons: Dark or fire
+- Planning improves efficiency
+
+## PvP Applications
+In player combat:
+- Scout opponent attributes
+- Counter with opposing element
+- Surprise with unexpected element
+- Armor for common attack elements
+- Meta shifts over time
+
+## Attribute Stones Sources
+Obtained from:
+- High-level monster drops
+- Raid boss rewards
+- Special hunting zones
+- Events and promotions
+- Market purchases
+
+## Cost Considerations
+Attribute investment expensive:
+- Stones are rare
+- High-level attributes need many stones
+- Multiple equipment pieces
+- Ongoing expense
+- Worth it for serious players
+
+## Attribute Resistance
+Defensive stacking:
+- Multiple armor pieces
+- Total attribute defense adds up
+- Can specialize in one element
+- Or spread across multiple
+- Strategic depending on threats
+
+## Endgame Meta
+High-level players:
+- +200-300 weapon attributes common
+- Full armor sets enchanted
+- Multiple gear sets for different elements
+- Millions invested
+- Competitive requirement
+
+## Removal and Changing
+- Attributes cannot be removed easily
+- Must add different element (overwrites)
+- Expensive to change
+- Plan carefully before enchanting
+- Long-term commitment
+
+## Raid Boss Attributes
+Epic bosses have elements:
+- Antharas: Earth element
+- Baium: Wind element
+- Valakas: Fire element
+- Others: Various elements
+- Optimize for specific raids
+
+## Competitive Advantage
+Proper attributes provide:
+- 20-40% damage increase (PvE)
+- Significant defense boost
+- Rock-paper-scissors PvP wins
+- Optimization for content
+- Min-maxing potential

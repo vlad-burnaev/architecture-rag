@@ -1,0 +1,164 @@
+# Pet System
+
+The pet system allows players to acquire and raise combat companions. Pets assist in battle, carry items, and provide unique abilities. Different pet types serve different purposes.
+
+## Pet Types
+
+### Wolf
+- Most common pet
+- Physical damage dealer
+- Can be buffed like players
+- Learns skills as it levels
+- Good for solo grinding
+
+### Hatchling (Baby Dragon)
+- Magical damage dealer
+- Breathes elemental attacks
+- Three types: Wind, Star, Twilight
+- Grows into stronger forms
+- Rare and valuable
+
+### Strider (Mount)
+- Rideable transport
+- Increases movement speed
+- No combat abilities
+- Various colors and types
+- Prestige and convenience
+
+### Baby Pets
+- Small decorative companions
+- Limited combat use
+- Cosmetic appeal
+- Special event pets
+- Collectible varieties
+
+## Obtaining Pets
+
+### Wolf
+- Monster drops Wolf Collars
+- Hatch from eggs
+- Buy from other players
+- Quest rewards
+- Common and accessible
+
+### Hatchling
+- Rare monster drops
+- Expensive player trades
+- Special events
+- Raid boss loot
+- Very valuable
+
+### Strider
+- Quest rewards at level 55
+- Purchase from NPC
+- Breed from owned striders
+- Different varieties available
+
+## Pet Management
+
+### Feeding
+- Pets need regular feeding
+- Different food types
+- Hunger affects performance
+- Unfed pets return to inventory
+- Food purchasable from NPCs
+
+### Leveling
+- Pets gain experience
+- Share exp with owner
+- Learn new skills
+- Stats increase with level
+- Can reach high levels
+
+### Skills
+- Pets learn abilities
+- Active and passive skills
+- Improves combat effectiveness
+- Skill books required
+- Training takes time
+
+## Pet Inventory
+- Pets can carry items
+- Reduces owner burden
+- Limited weight capacity
+- Access while summoned
+- Useful for grinding
+
+## Wolf Skills
+Example wolf abilities:
+- Bite: Basic physical attack
+- Howl: Self-buff increasing attack
+- Dash: Quick movement ability
+- Threatening Howl: Enemy debuff
+
+## Hatchling Evolution
+Dragons grow through stages:
+1. Hatchling (baby form)
+2. Strider (rideable form - some types)
+3. Wyvern (flying mount - special)
+Each stage more powerful
+
+## Hatchling Types
+
+### Wind Hatchling
+- Wind-element breath
+- Fast attack speed
+- Good against earth enemies
+- Balanced combat pet
+
+### Star Hatchling
+- Holy-element breath
+- Strong against undead
+- Support-focused abilities
+- Rare and sought-after
+
+### Twilight Hatchling
+- Dark-element breath
+- High damage output
+- Aggressive combat style
+- Most expensive variant
+
+## Pet Commands
+Control pet behavior:
+- Attack: Target enemy
+- Follow: Stay near owner
+- Stop: Cease actions
+- Pickup: Collect items
+- Aggressive/Passive modes
+
+## Pet Death
+When pets die:
+- Return to inventory
+- Experience loss
+- Must resummon
+- No permanent death
+- Resurrection possible
+
+## Pet Trades
+- Pets can be traded
+- Valuable market commodity
+- Prices vary by type/level
+- High-level pets expensive
+- Rare pets prestige items
+
+## Strategic Use
+- Pets draw enemy aggro
+- Additional damage source
+- Tank for squishy classes
+- Item collection while grinding
+- Solo play enhancement
+
+## Limitations
+- Cannot use in all areas
+- Some dungeons prohibit pets
+- PvP effectiveness limited
+- Arena restrictions
+- Mount-only zones exist
+
+## Pet Equipment
+Special items for pets:
+- Armor pieces
+- Weapons (limited)
+- Accessories
+- Enhances pet stats
+- Expensive but worthwhile

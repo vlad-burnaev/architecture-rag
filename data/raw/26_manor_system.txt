@@ -1,0 +1,158 @@
+# Manor System
+
+The Manor System is a territory management feature that allows lords of castles and fortresses to control agricultural production in their domains. Players can participate by planting seeds and harvesting crops.
+
+## Overview
+- Castle/fortress owners manage manors
+- Players plant and harvest crops
+- Produces special items and materials
+- Weekly cycle system
+- Economic gameplay element
+
+## How It Works
+
+### For Lords
+Castle/fortress owners:
+- Set seed prices
+- Determine crop prices
+- Manage territory economy
+- Profit from transactions
+- Balance supply/demand
+
+### For Players
+Participants can:
+- Buy seeds from manor
+- Plant in designated areas
+- Harvest mature crops
+- Sell back to manor
+- Earn Adena and items
+
+## Manor Products
+Two types of outputs:
+
+### Type 1 (Crops)
+- Basic agricultural products
+- Sold for Adena
+- Used in crafting
+- Daily necessities
+- Steady income source
+
+### Type 2 (Alternative)
+- Special manor items
+- Used for unique recipes
+- More valuable
+- Limited availability
+- Strategic choices
+
+## Seed Types
+Different crops available:
+- Wheat seeds
+- Carrot seeds
+- Potato seeds
+- Corn seeds
+- Exotic plant seeds
+- Each has growth time
+- Various yields
+
+## Planting Process
+1. Purchase seeds from Castle/Fortress Manor NPC
+2. Go to designated farming zones
+3. Use seeds to plant
+4. Wait for growth period (hours)
+5. Return to harvest
+6. Sell crops back to manor
+
+## Economic Cycle
+Weekly system:
+- Monday: New week starts
+- Lord sets prices
+- Players buy and plant
+- Throughout week: Growing
+- Before reset: Harvest and sell
+- Prices fluctuate
+
+## Profits
+Players can profit by:
+- Buy seeds low, sell crops high
+- Timing the market
+- Choosing profitable crops
+- Volume farming
+- Strategic planning
+
+## Castle Revenue
+Lords earn through:
+- Transaction fees
+- Price differences
+- Market manipulation
+- Economic control
+- Territory taxation
+
+## Special Items
+Manor system produces:
+- Unique crafting materials
+- Special foods
+- Potion ingredients
+- Quest items
+- Rare components
+
+## Competition
+- Multiple players compete
+- Limited farming spots
+- Price wars
+- Strategic buying
+- Market timing
+
+## Benefits
+
+### For Casual Players
+- Peaceful gameplay
+- Steady income
+- No combat required
+- Social activity
+- Relaxing alternative
+
+### For Serious Farmers
+- Significant profits
+- Market manipulation
+- Large-scale operations
+- Economic influence
+- Strategic gameplay
+
+## Territory Differences
+Each territory offers:
+- Different crops
+- Unique materials
+- Varying prices
+- Distinct economies
+- Travel considerations
+
+## Integration with Crafting
+Manor items used in:
+- Potion crafting
+- Food creation
+- Special recipes
+- Enchant materials
+- Guild crafting
+
+## Political Aspect
+- Lords control economies
+- Can benefit allies
+- Punish enemies through prices
+- Economic warfare
+- Alliance implications
+
+## Strategy Tips
+- Watch price trends
+- Buy seeds early
+- Plant high-yield crops
+- Harvest before reset
+- Diversify investments
+- Consider travel time
+- Factor in competition
+
+## Role in Server Economy
+- Stabilizes item prices
+- Provides material flow
+- Creates market dynamics
+- Engages casual players
+- Alternative income source

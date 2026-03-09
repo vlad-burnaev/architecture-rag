@@ -1,0 +1,123 @@
+# Castle Siege System
+
+Castle Sieges are massive PvP events where clans battle for control of castles and their surrounding territories. Sieges are the pinnacle of clan warfare and political power in Lineage 2.
+
+## Castles
+Nine major castles can be sieged:
+- Gludio Castle
+- Dion Castle
+- Giran Castle (largest)
+- Oren Castle
+- Aden Castle (capital)
+- Innadril Castle
+- Goddard Castle
+- Rune Castle
+- Schuttgart Castle
+
+## Siege Schedule
+- Sieges occur bi-weekly
+- Registration 1 week before siege
+- Multiple castles can be sieged same day
+- 2-hour battle duration
+- Victory determined by seal capture
+
+## Siege Registration
+Requirements:
+- Clan level 5 minimum
+- Registration fee (varies by castle)
+- Register as attacker or defender
+- Form alliances with other clans
+- Declare siege intentions
+
+## Siege Phases
+
+### Preparation (Before Siege)
+- Defending clan prepares defenses
+- Attackers build siege weapons
+- Alliances negotiated
+- Strategy meetings
+- Resource gathering
+
+### Battle (Siege Day)
+1. Gates open, attackers enter
+2. Fight through outer walls
+3. Destroy gates with siege weapons
+4. Battle through courtyard
+5. Enter throne room
+6. Capture the seal
+
+### Victory Conditions
+- Hold the seal for set duration
+- Kill/remove all enemies from throne
+- Timer expires with seal held
+- Defending clan keeps or loses
+
+## Siege Weapons
+Attackers use:
+- Battering rams: Destroy gates
+- Siege golems: Tank damage
+- Catapults: Long-range bombardment
+- Siege towers: Scale walls
+
+Defenders use:
+- Arrow towers: Automated defense
+- Boiling oil: Gate defense
+- Barricades: Slow attackers
+- Guard positions: Strategic locations
+
+## Siege Mechanics
+Special rules during siege:
+- No death penalties
+- Respawn at siege camps
+- Limited resurrection in combat
+- Siege-only skills active
+- Territory buffs for defender
+- Time limits on abilities
+
+## Castle Benefits
+Owning clan receives:
+- Weekly tax from territory
+- Special merchant access
+- Clan halls in castle
+- Castle buffs for members
+- Political influence
+- Prestige and reputation
+
+## Tax System
+Castle owners collect:
+- Shop tax in territory towns
+- Can set tax rate (0-20%)
+- Revenue collected weekly
+- Millions of Adena income
+- Fund clan operations
+
+## Strategic Locations
+Key tactical points:
+- Main gate (first objective)
+- Inner gate (second barrier)
+- Courtyard (main battle area)
+- Throne room (final objective)
+- Respawn points (control flow)
+
+## Alliance Politics
+Sieges involve politics:
+- Multiple clans ally as attackers
+- Only one clan can win
+- Betrayals possible
+- Negotiations during battle
+- Long-term alliances form
+
+## Famous Sieges
+- Historic battles remembered
+- Server-defining moments
+- Upset victories legendary
+- Strategic masterpieces
+- Community highlights
+
+## Preparation Costs
+Sieges require investment:
+- Siege weapon crafting
+- Consumables for 100+ members
+- Equipment repairs
+- Strategic planning time
+- Registration fees

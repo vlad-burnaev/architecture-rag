@@ -1,0 +1,152 @@
+{
+  "Lineage 2": "Eternum Nexus",
+  "Lineage II": "Eternum Nexus",
+  "Aden": "Valorheim",
+  "Kingdom of Aden": "Dominion of Valorheim",
+  "Giran": "Thornmere",
+  "Dion": "Steelwatch",
+  "Talking Island": "Whisperwind Isle",
+  "Elven Village": "Silverleaf Haven",
+  "Dark Elven Village": "Shadowfen Enclave",
+  "Orc Village": "Ironpeak Settlement",
+  "Dwarven Village": "Forge hollow",
+  "Kamael Village": "Soulblade Garrison",
+  
+  "Human": "Aetherian",
+  "Humans": "Aetherians",
+  "Elf": "Luminar",
+  "Elves": "Luminari",
+  "Elven": "Luminar",
+  "Dark Elf": "Voidkin",
+  "Dark Elves": "Voidkin",
+  "Orc": "Kragorn",
+  "Orcs": "Kragorn",
+  "Dwarf": "Stoneheart",
+  "Dwarves": "Stonehearts",
+  "Dwarven": "Stoneheart",
+  "Kamael": "Edgeblade",
+  
+  "Warrior": "Vanguard",
+  "Warlord": "Battlemaster",
+  "Gladiator": "Blade champion",
+  "Dreadnought": "Titanforge",
+  "Duelist": "Duelord",
+  
+  "Mage": "Arcanist",
+  "Wizard": "Spellweaver",
+  "Sorcerer": "Elementarch",
+  "Necromancer": "Deathcaller",
+  "Warlock": "Hexbinder",
+  "Archmage": "Supreme Caster",
+  "Soultaker": "Essence Reaver",
+  "Arcana Lord": "Mystic Sovereign",
+  
+  "Bishop": "Lightbringer",
+  "Cleric": "Sanctifier",
+  "Cardinal": "Archpriest",
+  "Prophet": "Oraclekeeper",
+  
+  "Knight": "Guardian",
+  "Paladin": "Holyshield",
+  "Dark Avenger": "Shadowbane",
+  "Shillien Knight": "Voidguard",
+  "Temple Knight": "Templeward",
+  
+  "Rogue": "Shadowstep",
+  "Treasure Hunter": "Vaultbreaker",
+  "Hawkeye": "Deadeye",
+  "Assassin": "Nightblade",
+  "Abyss Walker": "Void strider",
+  "Phantom Ranger": "Ghost Archer",
+  
+  "Scout": "Tracker",
+  "Silver Ranger": "Moonarrow",
+  "Plainswalker": "Windstrider",
+  
+  "Scavenger": "Salvager",
+  "Bounty Hunter": "Prizeclaimer",
+  "Artisan": "Master Forger",
+  "Warsmith": "Battlewright",
+  
+  "Destroyer": "Ravager",
+  "Tyrant": "Fist lord",
+  "Titan": "Colossus",
+  "Overlord": "Warlord",
+  "Warcryer": "Battlechanter",
+  
+  "Bladedancer": "Swiftblade",
+  "Swordsinger": "Melodyblade",
+  
+  "Adena": "Stellarium",
+  "Ancient Adena": "Primordial Stellarium",
+  
+  "Castle": "Stronghold",
+  "Giran Castle": "Thornmere Fortress",
+  "Aden Castle": "Valorheim Citadel",
+  "Dion Castle": "Steelwatch Keep",
+  "Gludio Castle": "Dawnbreak Bastion",
+  "Oren Castle": "Emberhold",
+  "Innadril Castle": "Frostspire",
+  "Goddard Castle": "Stormkeep",
+  "Rune Castle": "Runeforge",
+  "Schuttgart Castle": "Ironwall",
+  
+  "Dragon": "Wyrm",
+  "Antharas": "Terragorax",
+  "Baium": "Celestryx",
+  "Valakas": "Pyrotharax",
+  
+  "Olympiad": "Champion's Arena",
+  "Hero": "Exalted Champion",
+  "Noblesse": "Ascendant",
+  
+  "Soul Shot": "Essence Charge",
+  "Spirit Shot": "Mystic Charge",
+  "Blessed Spirit Shot": "Sacred Mystic Charge",
+  
+  "Spoil": "Extract",
+  "Sweep": "Harvest",
+  "Scavenger": "Salvager",
+  
+  "Life Stone": "Vitae Crystal",
+  "Enchant Scroll": "Enhancement Scroll",
+  "Blessed Enchant Scroll": "Sacred Enhancement Scroll",
+  
+  "Clan": "Guild",
+  "Alliance": "Confederation",
+  
+  "Quest": "Mission",
+  "Testimony": "Trial",
+  
+  "Giant Hardin": "Titan Korvath",
+  "Water Dragon Shilen": "Aqua Wyrm Lyshara",
+  "Fire Dragon": "Flame Wyrm Ignaroth",
+  "Earth Dragon": "Terra Wyrm Geonath",
+  
+  "Cruma Tower": "Tower of Echoes",
+  "Execution Grounds": "Field of Reckoning",
+  "Dragon Valley": "Wyrmrest Vale",
+  "Blazing Swamp": "Scorched Wetlands",
+  "Tower of Insolence": "Spire of Defiance",
+  "Forge of the Gods": "Divine Crucible",
+  "Imperial Tomb": "Ancient Sepulcher",
+  "Fields of Massacre": "Bloodplains",
+  "Antharas' Lair": "Terragorax's Den",
+  "Baium's Chamber": "Celestryx's Sanctum",
+  
+  "Manor": "Estate",
+  
+  "Seven Signs": "Seven Omens",
+  
+  "Gatekeeper": "Warpkeeper",
+  "Warehouse": "Vault",
+  
+  "Skill": "Ability",
+  "Buff": "Enhancement",
+  "Debuff": "Affliction",
+  
+  "Strider": "Swiftmount",
+  "Wolf": "Fangbeast",
+  "Hatchling": "Whelp",
+  "Wyvern": "Skydrake"
+}

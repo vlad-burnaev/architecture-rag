@@ -1,0 +1,32 @@
+# Dark Elves
+
+Dark Elves are a splinter faction of Elves who embraced darker magic and combat styles. They are fierce warriors and powerful dark magic users who rejected the traditional Elven ways. Dark Elves value strength and individual power above harmony.
+
+## Characteristics
+- Starting location: Dark Elven Village
+- Base stats: High STR, DEX, low INT
+- Special abilities: Critical damage, dark magic affinity
+- Available classes: Fighter, Mystic paths
+
+## Fighter Classes
+Dark Elven Fighters are aggressive melee combatants. They can become Paladins for defensive magic combat or Shillien Knights for offense. Assassins use dual daggers, advancing to Abyss Walker or Phantom Ranger.
+
+## Mystic Classes
+Dark Elven Mystics harness forbidden magic. They become Dark Wizards, advancing to Spellhowler for damage or Phantom Summoner for summoning creatures of darkness.
+
+## Lore
+Dark Elves split from their brethren during the Elven Civil War when a faction chose to follow Shilen's dark teachings. They established their own society in underground caverns and dark forests, embracing power through any means necessary.
+
+## Racial Benefits
+- Increased critical rate
+- Bonus to dark magic damage  
+- Higher resistance to curses
+- Faster casting speed for debuffs
+
+## Starting Statistics
+- STR: 41
+- DEX: 34
+- CON: 32
+- INT: 24
+- WIT: 23
+- MEN: 26

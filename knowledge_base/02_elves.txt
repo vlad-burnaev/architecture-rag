@@ -1,0 +1,32 @@
+# Luminari
+
+Luminari are an ancient magical race known for their grace, longevity, and affinity with nature. They inhabit the forests of Silverleaf Haven and are deeply connected to the world's natural magic. Luminari live for hundreds of years and possess keen senses.
+
+## Characteristics
+- Starting location: Silverleaf Haven
+- Base stats: High DEX, INT, low CON, STR
+- Special abilities: Enhanced accuracy, magic power
+- Available classes: Fighter, Mystic paths
+
+## Fighter Classes
+Luminar Fighters focus on agility and ranged combat. They can become Luminar Knights for melee defense or Temple Knights for holy combat. Scouts specialize in archery, advancing to Moonarrow or Windstrider.
+
+## Mystic Classes
+Luminar Mystics channel natural magic. They can become Luminar Wizards specializing in elemental damage as Spellsinger or Elemental Summoner. Oracle path leads to support roles.
+
+## Lore
+Luminari are descendants of the Aqua Wyrm Lyshara. They once ruled vast forests before the Great War. Their society values wisdom, magical knowledge, and harmony with nature. The Luminar Council governs their people.
+
+## Racial Benefits
+- Increased movement speed in forests
+- Higher MP regeneration
+- Bonus to bow damage
+- Resistance to sleep attacks
+
+## Starting Statistics
+- STR: 36
+- DEX: 35
+- CON: 36
+- INT: 41
+- WIT: 25
+- MEN: 26

@@ -1,0 +1,65 @@
+# Lightbringer Class
+
+The Lightbringer is an advanced Sanctifier class specializing in holy magic, healing, and party support. Bishops are the most powerful healers in Eternum Nexus, capable of keeping entire parties alive during the most difficult battles.
+
+## Class Progression
+- Base: Aetherian Mystic (Level 1-19)
+- First Class Change: Sanctifier (Level 20)
+- Second Class Change: Lightbringer (Level 40)
+- Third Class Change: Archpriest (Level 76)
+
+## Role and Abilities
+Bishops excel at:
+- Powerful single-target and group healing
+- Resurrection of fallen party members
+- Holy buffs and protection
+- Removing debuffs and negative status effects
+- Supporting party in extended combat
+
+## Key Skills
+### Healing Magic
+- Greater Heal: Strong single-target heal
+- Major Group Heal: Heals entire party
+- Balance Life: Equalizes party HP percentages
+- Celestial Shield: Creates protective barrier
+
+### Support Magic
+- Resurrection: Revives dead players
+- Greater Might: Increases physical attack
+- Greater Shield: Increases physical defense
+- Bless the Body: Increases maximum HP
+- Clarity: Increases magic critical rate
+
+### Holy Magic
+- Turn Undead: Extra damage against undead
+- Holy Weapon: Blesses weapons with holy power
+- Sacred Burst: Holy damage attack
+- Invocation: Recovers party MP
+
+## Equipment
+Bishops wear Robe Armor and use:
+- One-handed blunt weapon (mace/staff)
+- Sigil (magic focus)
+- Blessed equipment for enhanced holy magic
+
+## Party Role
+Bishops are essential for any serious party or raid. They:
+- Keep party alive through sustained healing
+- Provide critical buffs for offense and defense
+- Resurrect fallen members during combat
+- Remove dangerous debuffs
+- Recover MP for magic users
+
+## Stat Priority
+- Primary: MEN (healing power, MP, magic defense)
+- Secondary: WIT (casting speed, magic critical)
+- Tertiary: INT (magic attack for offensive spells)
+
+## Gameplay Style
+Bishops must constantly monitor party HP bars and anticipate damage. They balance healing with buffing and occasional offensive support. MP management is crucial for extended fights.
+
+## Advanced Techniques
+- Pre-casting heals before damage arrives
+- Chain resurrection during wipes
+- MP Regeneration rotation management
+- Positioning for maximum heal radius

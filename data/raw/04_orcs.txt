@@ -1,0 +1,35 @@
+# Orcs
+
+Orcs are a powerful warrior race known for their immense strength and combat prowess. They live in tribal societies and value honor in battle above all else. Orcs are larger and stronger than other races, making them formidable fighters.
+
+## Characteristics
+- Starting location: Orc Village
+- Base stats: Very high STR, CON, low INT, WIT
+- Special abilities: Physical power, high HP
+- Available classes: Fighter, Mystic paths
+
+## Fighter Classes
+Orc Fighters are devastating melee warriors. They can become Destroyers wielding two-handed weapons or Tyrants using fist weapons. Orc Monks focus on martial arts combat.
+
+## Mystic Classes
+Orc Mystics are Shamans who channel primal magic. They become Overlords for battlefield control and buffs or Warcryers for group support through war chants and totems.
+
+## Lore
+Orcs are descendants of the Fire Dragon. They believe strength determines leadership and respect. Orc society is organized into clans, each led by a chieftain. The strongest chieftain becomes the Orc Lord who rules all clans.
+
+## Racial Benefits
+- Highest HP among all races
+- Increased physical damage
+- Stun resistance
+- Reduced magic accuracy penalties
+
+## Starting Statistics
+- STR: 40
+- DEX: 26
+- CON: 47
+- INT: 18
+- WIT: 12
+- MEN: 27
+
+## Culture
+Orcs conduct ritual combat trials called "Krah'tor" to prove worthiness. They craft weapons and armor from beast bones and volcanic metals found near their villages.

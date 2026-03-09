@@ -1,0 +1,78 @@
+# Soul Shots and Spirit Shots
+
+Soul Shots and Spirit Shots are consumable ammunition that temporarily boost attack power. They are essential for effective combat and must be constantly replenished, making them a significant ongoing expense.
+
+## Soul Shots (Physical)
+Soul Shots enhance physical attacks:
+- Used by fighters and physical classes
+- Consumed with each attack
+- Increases P.Atk significantly
+- Available in grades: No Grade, D, C, B, A, S, S80, S84
+
+Effect:
+- Doubles basic physical attack damage
+- Glowing weapon effect when active
+- Essential for melee and archer classes
+
+## Spirit Shots (Magical)
+Spirit Shots enhance magical attacks:
+- Used by mystic classes (mages, healers)
+- Consumed with each spell cast
+- Increases M.Atk significantly
+- Available in same grades as Soul Shots
+
+Effect:
+- Doubles basic magical attack damage
+- Glowing magical effect
+- Critical for all magic users
+
+## Blessed Spirit Shots
+Higher-grade enhancement for magic:
+- Triples magical attack power
+- More expensive than regular Spirit Shots
+- Only for M.Atk spells
+- Grades: B, A, S, S80, S84
+
+## Auto-use Feature
+Players can enable auto-use:
+- Automatically uses shots from inventory
+- Toggles on/off for convenience
+- Requires macro or shortcut setup
+- Prevents running out during combat
+
+## Item Grades
+Shots must match weapon/armor grade:
+- No Grade: For starting equipment
+- D-Grade: Level 20-39 equipment
+- C-Grade: Level 40-51 equipment
+- B-Grade: Level 52-60 equipment
+- A-Grade: Level 61-75 equipment
+- S-Grade: Level 76+ equipment
+- S80/S84: Endgame equipment
+
+## Obtaining Shots
+- Purchase from Grocery Stores
+- Craft via Dwarven Artisan
+- Buy from other players
+- Monster drops (uncommon)
+
+## Cost Analysis
+Shots are a major expense:
+- Low-level: 10-50 Adena per shot
+- Mid-level: 100-500 Adena per shot
+- High-level: 1,000-5,000 Adena per shot
+- Daily usage can exceed 1 million Adena
+
+## Combat Impact
+Using shots vs not using:
+- With shots: 2-3x damage output
+- Without shots: Significantly slower grinding
+- PvP: Mandatory for competitive play
+- Raids: Expected for all participants
+
+## Strategy
+Players must balance:
+- Cost vs benefit for grinding
+- When to save shots (low-value mobs)
+- Always use in PvP and important fights
+- Stock management in inventory

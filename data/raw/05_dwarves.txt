@@ -1,0 +1,36 @@
+# Dwarves
+
+Dwarves are a short, sturdy race renowned for their craftsmanship and engineering skills. They are master craftsmen, merchants, and inventors who created much of the world's most advanced technology and finest weapons. Dwarves value industry and commerce.
+
+## Characteristics
+- Starting location: Dwarven Village
+- Base stats: High CON, balanced STR, low DEX
+- Special abilities: Crafting bonuses, merchant skills
+- Available classes: Fighter path only
+
+## Fighter Classes
+Dwarven Fighters are unique among races. They become Scavengers who collect materials or Artisans who create items. Scavengers advance to Bounty Hunter for combat-crafting or Warsmith for pure crafting mastery.
+
+## Special Abilities
+Dwarves have exclusive crafting and merchant abilities. They can create weapons, armor, and items that other races cannot. They also have better rates when trading and can set up private shops.
+
+## Lore
+Dwarves were created by the Earth Dragon. They built the ancient forges deep underground and discovered the secrets of working with rare metals. The Dwarven Council of Masters governs their trade guilds and workshops.
+
+## Racial Benefits
+- Bonus to crafting success rate
+- Reduced shop tax
+- Can spoil materials from enemies
+- Higher inventory capacity
+- Resistance to knockdown
+
+## Starting Statistics
+- STR: 39
+- DEX: 29
+- CON: 45
+- INT: 14
+- WIT: 11
+- MEN: 39
+
+## Economy
+Dwarves control most of the world's trade routes and manufacture. Their Forge Halls produce legendary equipment. They use a special currency system called "Ancient Adena" for rare crafting materials.

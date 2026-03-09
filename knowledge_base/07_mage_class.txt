@@ -1,0 +1,62 @@
+# Arcanist Class
+
+The Arcanist is a primary Aetherian Mystic class that harnesses elemental magic to devastating effect. Mages are the primary spellcasters, capable of dealing massive magical damage from range while controlling the battlefield with crowd control spells.
+
+## Class Progression
+- Base: Aetherian Mystic (Level 1-19)
+- First Class Change: Spellweaver (Level 20)
+- Second Class Change: Elementarch, Deathcaller, or Hexbinder (Level 40)
+- Third Class Change: Supreme Caster, Essence Reaver, or Mystic Sovereign (Level 76)
+
+## Elementarch Path
+Sorcerers master elemental destruction magic. They are pure damage dealers specializing in:
+- High burst damage spells
+- Elemental magic (fire, water, wind, earth)
+- Long-range attacks
+- Glass cannon playstyle
+
+Key Skills:
+- Ice Dagger: Quick ice projectile
+- Blazing Fire: Powerful fire spell
+- Aura Flash: Lightning area attack
+- Arcane Chaos: Ultimate destruction spell
+
+## Deathcaller Path
+Necromancers command the power of death and darkness. They excel at:
+- Damage over time curses
+- Life drain abilities  
+- Summoning undead servants
+- Debuffing enemies
+
+Key Skills:
+- Corpse Burst: Explodes fallen enemies
+- Vampiric Touch: Steals enemy HP
+- Summon Zombie: Raises undead minion
+- Death Spike: Dark magic projectile
+
+## Hexbinder Path
+Warlocks harness forbidden magic for versatile combat. They combine:
+- Summoning powerful demons
+- Direct damage spells
+- Support debuffs
+- Pet-based combat
+
+Key Skills:
+- Summon Demon: Calls forth demon servant
+- Shadow Flare: Dark area damage
+- Curse of Doom: Powerful Affliction
+- Arcane Destruction: High damage nuke
+
+## Equipment
+Mages wear Robe Armor and use:
+- Staff (primary weapon)
+- Sigil (off-hand magic focus)
+- Talismans for magic boost
+
+## Role in Party
+Mages are primary magical damage dealers. They stay at range, dealing high burst damage while avoiding enemy attacks. Critical for killing bosses and clearing large groups of enemies.
+
+## Stat Priority
+- Primary: INT (magic attack)
+- Secondary: WIT (casting speed, magic critical), MEN (magic defense, MP)
+- Recommended: Robe mastery, magic resistance

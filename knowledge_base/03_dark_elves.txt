@@ -1,0 +1,32 @@
+# Voidkin
+
+Voidkin are a splinter faction of Luminari who embraced darker magic and combat styles. They are fierce warriors and powerful dark magic users who rejected the traditional Luminar ways. Voidkin value strength and individual power above harmony.
+
+## Characteristics
+- Starting location: Shadowfen Enclave
+- Base stats: High STR, DEX, low INT
+- Special abilities: Critical damage, dark magic affinity
+- Available classes: Fighter, Mystic paths
+
+## Fighter Classes
+Dark Luminar Fighters are aggressive melee combatants. They can become Paladins for defensive magic combat or Shillien Knights for offense. Assassins use dual daggers, advancing to Void Swiftmount or Ghost Archer.
+
+## Mystic Classes
+Dark Luminar Mystics harness forbidden magic. They become Dark Wizards, advancing to Spellhowler for damage or Phantom Summoner for summoning creatures of darkness.
+
+## Lore
+Voidkin split from their brethren during the Luminar Civil War when a faction chose to follow Shilen's dark teachings. They established their own society in underground caverns and dark forests, embracing power through any means necessary.
+
+## Racial Benefits
+- Increased critical rate
+- Bonus to dark magic damage  
+- Higher resistance to curses
+- Faster casting speed for debuffs
+
+## Starting Statistics
+- STR: 41
+- DEX: 34
+- CON: 32
+- INT: 24
+- WIT: 23
+- MEN: 26

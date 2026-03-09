@@ -1,0 +1,119 @@
+# Celestryx Raid Boss
+
+Celestryx is one of the epic raid bosses, an ancient immortal angel imprisoned beneath the Spire of Defiance. Defeating Celestryx requires a massive coordinated raid force and grants legendary rewards.
+
+## Location
+Spire of Defiance, 13th floor
+- Accessible through tower climb
+- Requires Mission item to summon
+- Locked boss chamber
+- Must clear path to reach
+
+## Requirements
+- Minimum level: 75
+- Recommended: 78+
+- Full raid Confederation (70-100 players)
+- Celestryx's Blood Mark (summon item)
+- Complete "Celestryx's Wrath" Mission chain
+
+## Boss Statistics
+- Level: 85
+- HP: Over 5,000,000
+- Type: Angel/Divine
+- Respawn time: 5-8 days
+- Attack: Physical and Wind magic
+
+## Attack Patterns
+Celestryx uses devastating abilities:
+
+### Physical Attacks
+- Thunderbolt: Massive single-target damage
+- Wind Shackle: Stun and bind effect
+- Energy Wave: AoE knockback
+- Angel's Punishment: Execute low-HP targets
+
+### Status Effects
+- Petrification: Turns players to stone
+- Silence: Prevents magic casting
+- Sleep: Long-duration sleep
+- Curse: Reduced stats and healing
+
+### Special Mechanics
+- Summons angels: Guardian angels aid in battle
+- Aerial phase: Flies briefly, immune to melee
+- Area denial: Creates danger zones
+- Enrage timer: Increases damage over time
+
+## Combat Strategy
+
+### Phase 1 (100-50% HP)
+- Standard rotation
+- Manageable damage output
+- Focus on positioning
+- Deal with angel adds
+- Maintain buffs
+
+### Phase 2 (50-25% HP)
+- Increased aggression
+- More frequent AoE
+- Summons more angels
+- Higher movement speed
+- Harder status effects
+
+### Phase 3 (25-0% HP)
+- Enraged state
+- All abilities off cooldown
+- Massive damage increase
+- Desperate push required
+- High mortality rate
+
+## Raid Composition
+Successful raids need:
+- 3-5 main tanks (rotation)
+- 10-15 healers (Bishops critical)
+- 40-60 damage dealers
+- 10+ support/buffers
+- Organized communication
+
+## Key Tactics
+- Tank swapping for Affliction management
+- Spread formation to minimize AoE
+- Priority: Kill guardian angels
+- Mass resurrection preparation
+- Phase timing coordination
+
+## Rewards
+Celestryx drops extremely valuable items:
+- Celestryx's Ring: Best P.Def ring
+- Majestic Necklace: HP boost jewelry
+- Angel Slayer weapon fragments
+- High-grade armor pieces
+- Epic enchant scrolls
+- Millions of Stellarium
+- Divine materials
+
+## Lore
+Celestryx was once a powerful angel who challenged the gods. As punishment, he was imprisoned in the Spire of Defiance for eternity. His rage has only grown over millennia of confinement.
+
+## Historic Significance
+- Server first kills legendary
+- Guild supremacy contests
+- Political ramifications
+- Economic impact of drops
+- Community events around spawns
+
+## Preparation Requirements
+Clans must prepare:
+- Consumables for 100 players
+- Resurrection scrolls
+- Special resistance gear
+- Voice communication
+- Battle strategy planning
+- Backup plans for failure
+
+## Spawn Competition
+- Celestryx spawns contested
+- Clans camp the spawn
+- Politics around spawn time
+- Sometimes PvP before boss
+- Agreements between top clans

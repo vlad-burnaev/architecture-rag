@@ -1,0 +1,184 @@
+# Augmentation System
+
+The Augmentation System allows players to add special abilities and stat bonuses to weapons. Using Life Stones, players can grant weapons unique powers ranging from stat increases to special active abilities.
+
+## Life Stones
+Special items for augmentation:
+- Dropped by high-level monsters
+- Different grades match weapon grades
+- One-time use consumable
+- Rare and valuable
+- Grades: Mid, High, Top
+
+## How Augmentation Works
+Process:
+1. Obtain Life Stone (correct grade)
+2. Visit Augmenter NPC in towns
+3. Select weapon to augment
+4. Use Life Stone on weapon
+5. Random ability assigned
+6. Cannot be undone easily
+
+## Augmentation Types
+Three categories of augments:
+
+### Passive Stats
+- Increases to base stats (STR, DEX, CON, INT, WIT, MEN)
+- Bonus P.Atk or M.Atk
+- Critical rate increase
+- Attack/Casting speed
+- Accuracy bonuses
+
+### Active Skills
+- Special abilities that can be activated
+- Limited uses or cooldowns
+- Combat skills
+- Utility abilities
+- Powerful effects
+
+### Passive Skills
+- Always-on abilities
+- Elemental resistances
+- Regeneration bonuses
+- Special effects in combat
+- Defensive capabilities
+
+## Life Stone Grades
+Match weapon grade:
+
+### Mid-Grade Life Stone
+- For C-grade weapons
+- Basic augments
+- Lower stat bonuses
+- Uncommon skills
+
+### High-Grade Life Stone
+- For B/A-grade weapons
+- Better augments
+- Medium stat bonuses
+- Rare skills possible
+
+### Top-Grade Life Stone
+- For S-grade weapons
+- Best augments
+- High stat bonuses
+- Epic skills possible
+
+## Popular Augments
+
+### For Melee Fighters
+- Focus: Critical damage bonus
+- Might: P.Atk increase
+- Haste: Attack speed
+- Guidance: Accuracy
+- Active skill: Berserker (damage boost)
+
+### For Mages
+- Empower: M.Atk increase
+- Acumen: Casting speed
+- Mana Up: Max MP bonus
+- Magic Hold: Debuff skill
+- Active skill: Mana Burn
+
+### For Tanks
+- HP Bonus: Maximum HP increase
+- Shield Defense: Defense boost
+- Resist: Status effect resistance
+- Aggression: Better aggro generation
+- Active skill: Damage Shield
+
+## Rare Augments
+Most sought-after abilities:
+- Active skills (extremely rare)
+- High stat bonuses (+15 or more)
+- Multiple stat increases
+- Special effects
+- Worth millions of Adena
+
+## Cost Considerations
+Augmentation is expensive:
+- Life Stones are rare drops
+- Market prices high
+- Random results (gambling)
+- May need many attempts for desired augment
+- Can spend millions for perfect augment
+
+## Augment Removal
+Changing augments:
+- Must remove old augment first
+- Removal requires special item or service
+- Destroys previous augment
+- Expensive process
+- Lost if not careful
+
+## Min-Maxing
+Optimization strategy:
+- Test multiple augments
+- Keep best result
+- Sell weapon with bad augment
+- Buy new weapon and re-augment
+- Time and money intensive
+
+## Augment Trading
+Market implications:
+- Weapons with good augments worth more
+- Bad augments decrease value
+- Active skills highly valued
+- Perfect augments command premium prices
+- Specialized markets for augmented weapons
+
+## Probability System
+Augment chances:
+- Common stats: High probability
+- Uncommon bonuses: Medium probability
+- Rare skills: Low probability (<5%)
+- Epic actives: Very rare (<1%)
+- Pure luck involved
+
+## Strategic Choices
+Weapon selection:
+- Augment before or after enchanting
+- Consider weapon replacement timeline
+- Investment vs benefit analysis
+- Some prefer augmenting S-grade only
+- Others test on cheaper weapons
+
+## Active Skill Examples
+Powerful active augments:
+- Battle Roar: AOE attack
+- Mana Burn: Drain enemy MP
+- Counter Attack: Damage reflection
+- Boost Evasion: Temporary dodge bonus
+- Vampiric Rage: Life steal effect
+
+## Passive Skill Examples
+Always-on augments:
+- Fire Resistance
+- Slow Resistance
+- HP Regeneration
+- MP Regeneration
+- Critical Chance
+
+## Endgame Importance
+High-level gameplay:
+- Augments expected
+- Competitive advantage
+- Min-maxing requirement
+- Thousands spent on perfect augment
+- Status symbol
+
+## Clan Support
+Clans often:
+- Pool Life Stones
+- Share augmented weapons
+- Fund member augments
+- Coordinate for raids
+- Distribute found stones
+
+## RNG Factor
+Luck-based system:
+- No guarantees
+- Can get perfect on first try
+- Can fail hundreds of times
+- Gambling aspect
+- Frustration and excitement

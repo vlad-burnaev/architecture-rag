@@ -1,0 +1,92 @@
+# Extract and Harvest System
+
+The Extract and Harvest system is a unique Stoneheart ability that allows Scavengers and Bounty Hunters to extract additional materials from monsters. This system is central to the Stoneheart economy and crafting supply chain.
+
+## Extract Ability
+Extract is used on living monsters:
+- Cast on monster before killing
+- Success rate depends on level difference
+- Marks monster as "spoiled"
+- Does not damage the monster
+- Can be resisted
+
+## Harvest Ability
+Harvest extracts spoiled materials:
+- Used on corpse of spoiled monster
+- Must be used before corpse disappears (1-2 minutes)
+- Extracts materials into inventory
+- Can only be used by character who spoiled
+- One-time use per corpse
+
+## Spoilable Materials
+Different monsters yield different materials:
+- Animal skins and leather
+- Gemstones (rare and valuable)
+- Crafting ingredients
+- Ore and metals
+- Special Mission items
+- Recipe components
+
+## Success Rates
+Factors affecting Extract success:
+- Level difference (easier if lower level mob)
+- Extract Ability level
+- Character equipment bonuses
+- Monster type
+- Random chance factor
+
+Typical rates:
+- Equal level: 60-70%
+- Lower level mob: 80-90%
+- Higher level mob: 30-50%
+
+## Economic Impact
+Spoiling is crucial for economy:
+- Primary source of crafting materials
+- Gemstones worth millions
+- Controls market prices for materials
+- Stonehearts become essential for clans
+- Material supply affects all crafters
+
+## Valuable Spoils
+Most sought-after spoiled materials:
+- Gemstones (Crystal, Diamond, Ruby, etc.)
+- High-grade leather
+- Rare ore
+- Recipe components
+- Event-specific materials
+
+## Best Spoiling Locations
+Popular spots for spoiling:
+- Stakato Nest: Gemstones
+- Wyrmrest Vale: Wyrm materials
+- Scorched Wetlands: Rare leathers
+- Spire of Defiance: High-grade materials
+- Divine Crucible: Endgame materials
+
+## Party Dynamics
+In parties with Stonehearts:
+- Stoneheart spoils before monster dies
+- Party waits for Harvest
+- Materials distributed or kept by Stoneheart
+- Agreements on valuable spoils
+- Some clans employ dedicated spoilers
+
+## Advanced Techniques
+- Extract-burst: Extract+kill+Harvest rotation
+- Multiple mob management
+- Optimal spoiling routes
+- Material price tracking
+- Selling spoiled goods for profit
+
+## Salvager vs Prizeclaimer
+- Salvager: Basic Extract/Harvest
+- Prizeclaimer: Enhanced rates, can equip heavy armor
+- Both essential for material farming
+
+## Comparison to Regular Drops
+- Regular drops: Random from any kill
+- Spoiled materials: Guaranteed if successful Extract
+- Spoils often more valuable
+- Some items only available via Extract
+- Requires Stoneheart class to access

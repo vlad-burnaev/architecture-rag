@@ -1,0 +1,139 @@
+# Buff System
+
+The buff system provides temporary enhancements to character stats and abilities. Buffs are essential for combat effectiveness and are provided by support classes or buff shops.
+
+## Buff Duration
+- Most buffs last 20-40 minutes
+- Some special buffs last longer
+- Duration can be extended with items
+- Buffs persist through death (some)
+- Must be reapplied when expired
+
+## Buff Types
+
+### Physical Buffs
+- Might: Increases P.Atk
+- Shield: Increases P.Def
+- Haste: Increases attack speed
+- Agility: Increases evasion
+- Guidance: Increases accuracy
+- Death Whisper: Increases critical rate
+
+### Magical Buffs
+- Empower: Increases M.Atk
+- Acumen: Increases casting speed
+- Concentration: Decreases skill cooldown
+- Mana Regeneration: Increases MP recovery
+- Clarity: Increases magic critical
+- Wild Magic: Increases magic power
+
+### Defensive Buffs
+- Bless Shield: Increases shield defense
+- Greater Shield: Massive defense boost
+- Mental Shield: Increases M.Def
+- Resist Shock: Reduces stun chance
+- Resist Hold: Reduces hold chance
+- Resist Poison: Reduces poison damage
+
+### Special Buffs
+- Bless the Body: Increases max HP
+- Bless the Soul: Increases max MP
+- Vampiric Rage: HP steal on attacks
+- Focus: Increases critical damage
+- Guidance: Hit rate increase
+- Wind Walk: Movement speed boost
+
+## Buff Slots
+Characters have limited buff slots:
+- Base: 20 slots
+- With special items: Up to 24 slots
+- Must choose wisely
+- Some buffs share slots
+- Premium buffs count double
+
+## Buff Classes
+
+### Prophet (Human Cleric)
+- Best overall buffer
+- Wide variety of buffs
+- Essential for parties
+- Both physical and magical buffs
+- Can buff entire parties
+
+### Warcryer (Orc Shaman)
+- Chant-based buffs
+- Group AoE buffs
+- Battle cries
+- Excellent for physical classes
+- Totem magic
+
+### Bladedancer (Elven Fighter)
+- Dance-based buffs
+- Party-wide dances
+- Speed and combat buffs
+- Complements physical parties
+
+### Swordsinger (Elven Fighter)
+- Song-based buffs
+- Party-wide songs
+- Attack power focus
+- Essential for damage dealers
+
+### Overlord (Orc Shaman)
+- Chant-based like Warcryer
+- Focus on physical power
+- Party management buffs
+- Territory control
+
+## Buff Shops
+Players set up buff shops:
+- NPC buffers in towns (basic)
+- Player buffers sell services
+- Prices vary by buff
+- Premium packages available
+- AFK automated buffing
+
+## Buff Combinations
+Strategic buff stacking:
+- Physical DPS: Might, Haste, Focus, Death Whisper
+- Mages: Empower, Acumen, Wild Magic, Clarity
+- Tanks: Shield, Bless Body, Mental Shield
+- Archers: Focus, Guidance, Wind Walk
+
+## Castle Buffs
+Castle owners get special buffs:
+- Territory-wide bonuses
+- Castle-exclusive buffs
+- Stronger than normal buffs
+- Only in controlled territory
+- Major advantage in sieges
+
+## Buff Items
+Items that provide buffs:
+- Buff scrolls: One-time use
+- Talismans: Permanent passive buffs
+- Special foods: Temporary stat boost
+- Potions: Short-duration buffs
+- Event items: Unique buffs
+
+## Debuff System
+Negative effects countering buffs:
+- Purge: Removes buffs
+- Curse: Reduces stats
+- Poison: Damage over time
+- Silence: Prevents spell casting
+- Slow: Reduces movement/attack speed
+
+## Buff Priority
+Essential buffs by role:
+1. Damage dealers: Attack buffs first
+2. Tanks: Defense buffs priority
+3. Healers: MP regeneration important
+4. Everyone: Movement speed (Wind Walk)
+
+## Self-Buffs
+Some classes have self-buffs:
+- Warriors: Battle cries
+- Mages: Magic shields
+- Rogues: Stealth and speed
+- Limited compared to buff classes

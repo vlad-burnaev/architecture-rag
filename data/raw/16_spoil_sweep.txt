@@ -1,0 +1,92 @@
+# Spoil and Sweep System
+
+The Spoil and Sweep system is a unique Dwarven ability that allows Scavengers and Bounty Hunters to extract additional materials from monsters. This system is central to the Dwarven economy and crafting supply chain.
+
+## Spoil Skill
+Spoil is used on living monsters:
+- Cast on monster before killing
+- Success rate depends on level difference
+- Marks monster as "spoiled"
+- Does not damage the monster
+- Can be resisted
+
+## Sweep Skill
+Sweep extracts spoiled materials:
+- Used on corpse of spoiled monster
+- Must be used before corpse disappears (1-2 minutes)
+- Extracts materials into inventory
+- Can only be used by character who spoiled
+- One-time use per corpse
+
+## Spoilable Materials
+Different monsters yield different materials:
+- Animal skins and leather
+- Gemstones (rare and valuable)
+- Crafting ingredients
+- Ore and metals
+- Special quest items
+- Recipe components
+
+## Success Rates
+Factors affecting spoil success:
+- Level difference (easier if lower level mob)
+- Spoil skill level
+- Character equipment bonuses
+- Monster type
+- Random chance factor
+
+Typical rates:
+- Equal level: 60-70%
+- Lower level mob: 80-90%
+- Higher level mob: 30-50%
+
+## Economic Impact
+Spoiling is crucial for economy:
+- Primary source of crafting materials
+- Gemstones worth millions
+- Controls market prices for materials
+- Dwarves become essential for clans
+- Material supply affects all crafters
+
+## Valuable Spoils
+Most sought-after spoiled materials:
+- Gemstones (Crystal, Diamond, Ruby, etc.)
+- High-grade leather
+- Rare ore
+- Recipe components
+- Event-specific materials
+
+## Best Spoiling Locations
+Popular spots for spoiling:
+- Stakato Nest: Gemstones
+- Dragon Valley: Dragon materials
+- Blazing Swamp: Rare leathers
+- Tower of Insolence: High-grade materials
+- Forge of the Gods: Endgame materials
+
+## Party Dynamics
+In parties with Dwarves:
+- Dwarf spoils before monster dies
+- Party waits for sweep
+- Materials distributed or kept by Dwarf
+- Agreements on valuable spoils
+- Some clans employ dedicated spoilers
+
+## Advanced Techniques
+- Spoil-burst: Spoil+kill+sweep rotation
+- Multiple mob management
+- Optimal spoiling routes
+- Material price tracking
+- Selling spoiled goods for profit
+
+## Scavenger vs Bounty Hunter
+- Scavenger: Basic spoil/sweep
+- Bounty Hunter: Enhanced rates, can equip heavy armor
+- Both essential for material farming
+
+## Comparison to Regular Drops
+- Regular drops: Random from any kill
+- Spoiled materials: Guaranteed if successful spoil
+- Spoils often more valuable
+- Some items only available via spoil
+- Requires Dwarf class to access

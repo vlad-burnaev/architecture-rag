@@ -1,0 +1,54 @@
+# Whisperwind Isle
+
+Whisperwind Isle is the starting location for Aetherian and Luminar characters. It is a large island northeast of the mainland, serving as a training ground for new adventurers before they venture to the main continent of Valorheim.
+
+## Geography
+The island features diverse terrain:
+- Whisperwind Isle Village: Main settlement with shops and NPCs
+- Silverleaf Haven: Settlement for Luminar characters in the forest
+- Ruins of Despair: Ancient ruins with undead creatures
+- Kragorn Barracks: Kragorn encampment
+- Western Mining Area: Mining site with aggressive insects
+- Eastern Waterfall: Scenic area with various monsters
+
+## Level Range
+Whisperwind Isle is designed for characters level 1-20. Monster levels range from 1 to 25, providing appropriate challenges for beginners.
+
+## Important NPCs
+- Head Blacksmith Ferris: Weapon and armor crafting
+- Vault Keeper Rant: Storage access
+- Warpkeeper: Teleportation services
+- Grocery Store: Consumables and supplies
+- Pet Manager: Pet-related services
+
+## Monsters
+Common creatures on Whisperwind Isle:
+- Goblins (Level 1-5): Weak humanoid monsters
+- Fangbeast (Level 4-8): Aggressive beasts
+- Imp (Level 5-9): Small demons
+- Zombie (Level 10-15): Undead in ruins
+- Stakato (Level 18-25): Insect-type monsters
+
+## Quests
+Whisperwind Isle hosts numerous beginner quests including:
+- Delivery Duty: Learn about towns and NPCs
+- Bones Tell the Future: Introduction to Mission items
+- Hunt of the Golden Ram: Basic hunting Mission
+- Test of the Vanguard: Class-specific Mission chain
+- Trial of Prosperity: Stoneheart crafting introduction
+
+## Dungeon
+The Ant Nest is a multi-level dungeon beneath Whisperwind Isle featuring ant-type monsters level 20-30. It provides good experience and loot for characters ready to leave the island.
+
+## Travel
+Players can leave Whisperwind Isle via:
+- Ship to Gludin Village: Every 30 minutes
+- Warpkeeper: Teleport for a fee (available after level 20)
+- Personal teleport scrolls
+
+## Resources
+The island provides abundant resources for crafting:
+- Animal bones and hides
+- Iron ore deposits
+- Herbs for alchemy
+- Monster cores
