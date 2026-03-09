@@ -1,0 +1,76 @@
+# Clan System
+
+Clans are player-created organizations that allow players to group together for social interaction, combat cooperation, and territorial control. Clans can participate in castle sieges, own territories, and provide benefits to members.
+
+## Creating a Clan
+Requirements:
+- Character level 10 or higher
+- 1,000,000 Adena fee
+- Visit Clan Registration NPC in any major city
+- Choose unique clan name
+
+## Clan Levels
+Clans progress through 11 levels:
+- Level 0: Start, max 15 members
+- Level 1: Max 30 members, can participate in sieges
+- Level 2: Max 45 members, can own clan hall
+- Level 3: Max 60 members, expanded privileges
+- Level 4: Max 75 members, additional clan skills
+- Level 5: Max 90 members, can own castle
+- Level 6-11: Progressive member increases, enhanced abilities
+
+## Leveling Up Clans
+Clans gain reputation points through:
+- Winning castle sieges
+- Completing clan quests
+- Participating in raids
+- Territory control
+- Member achievements
+
+## Clan Roles
+- Clan Leader: Full control over clan
+- Captains: Can invite members, manage permissions
+- Elite Members: Access to clan warehouse
+- Regular Members: Standard privileges
+
+## Clan Benefits
+Members receive:
+- Clan skills (combat bonuses)
+- Access to clan warehouse
+- Clan hall teleportation
+- Clan chat and coordination
+- Alliance participation
+- Siege warfare eligibility
+
+## Clan Skills
+Special skills available only to clan members:
+- Increase Max HP/MP
+- Improved Critical Rate
+- Enhanced Combat abilities
+- Faster HP/MP recovery
+- Resistance bonuses
+
+## Clan Wars
+Clans can declare war on other clans:
+- No penalty for killing war enemies
+- Reputation points for victories
+- Political alliances and enemies
+- Server-wide reputation
+
+## Castle Ownership
+Level 5+ clans can own castles, providing:
+- Tax collection from territory
+- Access to castle merchants
+- Clan buffs and facilities
+- Political influence
+- Weekly revenue in millions of Adena
+
+## Academy System
+Clans with clan halls can create academies to train new members, providing bonuses to lower-level characters.
+
+## Dissolution
+Clan leaders can disband clans, but this:
+- Requires confirmation
+- Returns members to clanless status
+- Forfeits all clan properties
+- Cannot be undone

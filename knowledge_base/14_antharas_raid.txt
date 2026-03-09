@@ -1,0 +1,79 @@
+# Terragorax Wyrm Raid Boss
+
+Terragorax is one of the most powerful raid bosses in Eternum Nexus, an ancient Terra Wyrm Geonath who dwells in a volcanic lair. Defeating Terragorax requires a coordinated raid of 50+ high-level players and provides legendary rewards.
+
+## Location
+Terragorax's Den is accessed through the Wyrmrest Vale, requiring a special Mission item called the Wyrm Stone. The lair is a massive volcanic cavern filled with lesser dragons and wyverns.
+
+## Requirements
+- Minimum level: 70
+- Recommended: 76+
+- Required: Full raid Confederation (50-100 players)
+- Terragorax' Heart Mission item to enter
+- Complete Mission chain from Wyrm Guardian in Thornmere
+
+## Boss Statistics
+- Level: 85
+- HP: Over 4,000,000
+- Type: Wyrm, Earth element
+- Respawn time: Variable (1-2 weeks)
+- Attack type: Physical and magical
+
+## Attack Patterns
+Terragorax uses devastating abilities:
+- Tail Harvest: Massive AoE physical damage
+- Earth Breath: Earth-element breath attack
+- Fear Roar: Causes fear status to entire raid
+- Meteor Storm: Random area bombardment
+- Ground Slam: Knockdown and stun effect
+- Summon Minions: Calls lesser dragons for aid
+
+## Combat Phases
+The battle has three distinct phases:
+
+Phase 1 (100-70% HP):
+- Standard attacks and occasional breath
+- Manageable damage
+- Raid establishes positioning
+
+Phase 2 (70-30% HP):
+- Increased attack frequency
+- Summons Skydrake minions
+- Uses Fear Roar more often
+- Higher movement speed
+
+Phase 3 (30-0% HP):
+- Enters rage mode
+- All attacks deal 50% more damage
+- Frequent Meteor Storms
+- Rapid casting of all abilities
+- Desperation attacks
+
+## Strategy
+Successful raids require:
+- Main tanks with high fire resistance
+- Multiple healers (Bishops essential)
+- Damage dealers focusing boss
+- Support dealing with minions
+- Resurrection rotation for fallen members
+- Voice communication for coordination
+
+## Rewards
+Terragorax drops extremely rare items:
+- Ring of Core: Best HP recovery ring
+- Earring of Orfen: Critical damage boost
+- Wyrm Slayer weapon fragments
+- High-grade equipment materials
+- Enchant scrolls (A-grade and above)
+- Millions of Stellarium
+- Wyrm Crystal for special crafting
+
+## Lore
+Terragorax is one of the ancient dragons who survived the Wyrm Wars. He sleeps for decades at a time, awakening only when disturbed. Legends say he guards ancient treasures from the time when dragons ruled the world.
+
+## Notable Facts
+- First kill on most servers is celebrated
+- Raid coordination can take hours
+- Failure is common even for top clans
+- Some servers create alliances specifically to defeat Terragorax
+- Killing Terragorax grants server-wide fame

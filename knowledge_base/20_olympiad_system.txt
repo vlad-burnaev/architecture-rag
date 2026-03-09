@@ -1,0 +1,113 @@
+# Champion's Arena System
+
+The Champion's Arena is a competitive PvP system where players battle in 1v1 matches for ranking, rewards, and the chance to become a Exalted Champion. It operates on a monthly cycle with rankings reset each period.
+
+## Requirements
+- Ascendant status (obtained through Mission at level 75+)
+- Level 75 or higher
+- Proper equipment and preparation
+- Registration during competition period
+
+## Match Types
+### Class-Based Matches
+- Fight only against same class
+- Fair matchups
+- Most common match type
+- Best for ranking
+
+### Non-Class Matches
+- Fight against any class
+- Higher variance in matchups
+- Faster queue times
+- Still awards points
+
+### Team Matches
+- 3v3 team battles
+- Coordinate with party members
+- Separate ranking system
+- Strategic team composition
+
+## Champion's Arena Points
+Earned through victories:
+- Win: 10-18 points (based on opponent rank)
+- Loss: -5 to -10 points
+- Draw: 0 points
+- Points determine ranking
+- Higher rank = more points per win
+
+## Ranking System
+- Top 30% receive weekly rewards
+- Top 10% get enhanced rewards
+- #1 in each class becomes Exalted Champion
+- Rankings displayed publicly
+- Prestige and bragging rights
+
+## Exalted Champion System
+Top Champion's Arena performer becomes Exalted Champion:
+- One Exalted Champion per class each month
+- Special Exalted Champion skills
+- Exalted Champion weapons
+- Glowing aura effect
+- Server-wide fame
+- Can broadcast messages
+- Increased stats
+
+## Exalted Champion Benefits
+Heroes receive:
+- Exalted Champion Crown (headgear)
+- Special Exalted Champion skills (powerful buffs)
+- Access to Exalted Champion weapons
+- Chat privileges
+- Visual effects
+- Bonus to all stats
+- Increased speed
+
+## Match Schedule
+Champion's Arena runs on schedule:
+- Competition period: First 3 weeks of month
+- Validation period: Last week
+- Daily match hours: Specific time windows
+- Weekend bonus hours
+- Matches during prime time
+
+## Battle Mechanics
+Special rules for Champion's Arena:
+- Locked arena (no escape)
+- Time limit per match (varies)
+- No outside buffs beyond initial
+- Limited consumable use
+- Specific item restrictions
+- Balanced environment
+
+## Strategy
+Successful Champion's Arena requires:
+- Class knowledge and counters
+- Proper equipment (often different from PvE)
+- Consumable preparation
+- Timing and Ability usage
+- Understanding opponent patterns
+- Mental preparation
+
+## Rewards
+Participation rewards:
+- Champion's Arena tokens
+- Trade for special items
+- Exalted Champion coins for heroes
+- Rare equipment pieces
+- Enhancement scrolls
+- Enchant materials
+
+## Equipment Meta
+Champion's Arena has different meta:
+- Different from mass PvP
+- Different from PvE
+- Focus on burst damage or survival
+- Specific jewels and armor sets
+- Weapon choices vary by class
+
+## Competitive Scene
+- Top players known server-wide
+- Guild prestige from Heroes
+- Competition drives endgame
+- Creates PvP community
+- Regular rivalries form

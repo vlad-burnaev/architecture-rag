@@ -1,0 +1,49 @@
+# Warrior Class
+
+The Warrior is a primary Human Fighter class that specializes in melee combat with heavy weapons and armor. Warriors are the backbone of any army, capable of dealing massive physical damage while withstanding enemy attacks.
+
+## Class Progression
+- Base: Human Fighter (Level 1-19)
+- First Class Change: Warrior (Level 20)
+- Second Class Change: Warlord or Gladiator (Level 40)
+- Third Class Change: Dreadnought or Duelist (Level 76)
+
+## Warlord Path
+Warlords are battlefield commanders who lead parties into battle. They excel at:
+- Area of effect physical attacks
+- Party buffs and battle cries
+- Polearm mastery
+- Tank-damage hybrid role
+
+Key Skills:
+- War Cry: Increases party's physical attack
+- Battle Roar: Reduces enemy defense in area
+- Force Blaster: Heavy polearm attack
+- Aegis Stance: Defensive positioning skill
+
+## Gladiator Path
+Gladiators are pure damage dealers who use dual swords or two-handed swords. They focus on:
+- Single target burst damage
+- Critical strike chance
+- Sword mastery
+- Rapid attack skills
+
+Key Skills:
+- Triple Slash: Three consecutive strikes
+- Sonic Rage: High-speed attack rush
+- Blade Hurricane: Spinning sword attack
+- Frenzy: Self-buff increasing attack speed
+
+## Equipment
+Warriors typically wear Heavy Armor and use:
+- Swords (one-handed or two-handed)
+- Polearms (Warlord specialty)
+- Heavy shields (for defensive builds)
+
+## Role in Party
+Warriors serve as main damage dealers or off-tanks. Warlords provide utility and AoE damage. Gladiators focus on eliminating high-priority targets quickly.
+
+## Stat Priority
+- Primary: STR (physical attack)
+- Secondary: CON (HP), DEX (accuracy, critical)
+- Recommended: Heavy armor mastery, sword/polearm mastery

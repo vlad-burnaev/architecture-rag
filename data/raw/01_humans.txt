@@ -1,0 +1,26 @@
+# Humans
+
+Humans are one of the main playable races in Lineage 2. They are the most versatile and balanced race, excelling in various combat styles and magic. Humans originated from the continent of Elmore and established the Kingdom of Aden as their primary civilization.
+
+## Characteristics
+- Starting location: Talking Island Village
+- Base stats: Balanced STR, DEX, CON, INT, WIT, MEN
+- Special abilities: Versatility in all classes
+- Available classes: Fighter, Mystic paths
+
+## Fighter Classes
+Humans can become Warriors, Knights, or Rogues. Warriors focus on physical damage and can advance to Warlord or Gladiator. Knights specialize in defense and become Paladin or Dark Avenger. Rogues use speed and critical strikes, advancing to Treasure Hunter or Hawkeye.
+
+## Mystic Classes  
+Human Mystics can choose Wizard or Cleric paths. Wizards become powerful spellcasters like Sorcerer or Necromancer. Clerics provide support and healing, advancing to Bishop or Prophet.
+
+## Lore
+Humans believe they are descendants of the ancient Giant Hardin. They value honor, trade, and martial prowess. The Kingdom of Aden is ruled by the royal family and protected by the Knights of Dawn.
+
+## Starting Statistics
+- STR: 40
+- DEX: 30  
+- CON: 43
+- INT: 21
+- WIT: 20
+- MEN: 25

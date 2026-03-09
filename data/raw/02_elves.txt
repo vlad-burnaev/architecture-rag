@@ -1,0 +1,32 @@
+# Elves
+
+Elves are an ancient magical race known for their grace, longevity, and affinity with nature. They inhabit the forests of Elven Village and are deeply connected to the world's natural magic. Elves live for hundreds of years and possess keen senses.
+
+## Characteristics
+- Starting location: Elven Village
+- Base stats: High DEX, INT, low CON, STR
+- Special abilities: Enhanced accuracy, magic power
+- Available classes: Fighter, Mystic paths
+
+## Fighter Classes
+Elven Fighters focus on agility and ranged combat. They can become Elven Knights for melee defense or Temple Knights for holy combat. Scouts specialize in archery, advancing to Silver Ranger or Plainswalker.
+
+## Mystic Classes
+Elven Mystics channel natural magic. They can become Elven Wizards specializing in elemental damage as Spellsinger or Elemental Summoner. Oracle path leads to support roles.
+
+## Lore
+Elves are descendants of the Water Dragon Shilen. They once ruled vast forests before the Great War. Their society values wisdom, magical knowledge, and harmony with nature. The Elven Council governs their people.
+
+## Racial Benefits
+- Increased movement speed in forests
+- Higher MP regeneration
+- Bonus to bow damage
+- Resistance to sleep attacks
+
+## Starting Statistics
+- STR: 36
+- DEX: 35
+- CON: 36
+- INT: 41
+- WIT: 25
+- MEN: 26

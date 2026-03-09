@@ -1,0 +1,120 @@
+# Sub-Class System
+
+The sub-class system allows characters level 75+ to learn additional classes while retaining their main class. This provides access to more skills, higher stat caps, and versatility in gameplay.
+
+## Requirements
+- Main class level 75+
+- Complete Ascendant Mission
+- Complete specific sub-class quests
+- Cannot choose same class type as main
+- Maximum 3 sub-classes
+
+## Creating Sub-Class
+Process:
+1. Reach level 75 on main class
+2. Complete qualification quests
+3. Visit Sub-Class NPC in major city
+4. Pay creation fee
+5. Select new class from available options
+6. Start at level 40
+
+## Class Restrictions
+Cannot select:
+- Same class as main
+- Classes requiring opposite gender
+- Some storyline-restricted classes
+- Must be different base class type
+
+## Leveling Sub-Classes
+- Sub-class starts at level 40
+- Max level is 80 (initially, 85 with updates)
+- Experience gained separately
+- Switch between classes at Sub-Class NPC
+- Equipment must be appropriate
+
+## Benefits
+Sub-classes provide:
+- Access to additional skills
+- Increased stat caps
+- More versatility
+- Passive skills carry over (some)
+- Path to Ascendant status
+- Higher overall power
+
+## Shared Skills
+Some skills transfer:
+- Certain passive abilities
+- Common skills
+- Enhancement spells (limited)
+- Does not include class-specific actives
+
+## Certification Skills
+At level 65, 70, 75 sub-class:
+- Earn certification points
+- Learn special sub-class skills
+- Permanent on main class
+- Choose from Ability trees
+- Increases main class power
+
+## Popular Combinations
+Strategic sub-class choices:
+- Arcanist main + Oraclekeeper sub (buffs)
+- Tank main + Healer sub (support skills)
+- DD main + Tank sub (survivability)
+- Balance offense and defense
+
+## Experience Requirements
+- Sub-class exp same as main
+- No exp penalty
+- Can level multiple simultaneously
+- Switch as needed
+- Independent progression
+
+## Equipment Considerations
+- Each class needs appropriate gear
+- Shared Vault for transfers
+- Armor types may differ
+- Weapon expertise differs
+- Inventory management important
+
+## Class-Specific Benefits
+### Fighter → Mystic Sub
+- Access to buffs
+- MP management skills
+- Magic defense understanding
+
+### Mystic → Fighter Sub
+- Physical damage option
+- Better HP pool
+- Melee combat experience
+
+## Maximum Power
+Fully developed character has:
+- Main class at max level
+- 3 sub-classes at max level
+- All certification skills
+- Access to all learned abilities
+- Highest possible stats
+
+## Sub-Class Quests
+Required quests:
+- Test of Trust
+- Test of Duty  
+- Test of Seeker
+- Trial quests (varies)
+- Some class-specific requirements
+
+## Strategic Planning
+Consider:
+- Long-term goals
+- Desired certification skills
+- PvP vs PvE focus
+- Guild needs
+- Personal playstyle
+
+## Time Investment
+- Leveling each sub takes time
+- 40-80 requires significant grinding
+- Multiple sub-classes = months of play
+- Worth it for endgame power
+- Prestige achievement

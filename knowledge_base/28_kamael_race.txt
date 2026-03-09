@@ -1,0 +1,142 @@
+# Edgeblade Race
+
+The Edgeblade are a unique race created as living weapons during ancient wars. They have a single-gender design and use exclusive Soul Breaker weapons. Kamaels are versatile fighters combining melee and ranged combat.
+
+## Characteristics
+- Gender: Male or Female (separate race paths)
+- Origin: Artificially created warriors
+- Weapon: Soul Breakers (exclusive)
+- Style: Hybrid melee/ranged combat
+- Starting location: Soulblade Garrison (Isle of Souls)
+
+## Male Edgeblade
+Male Kamaels are physical combatants:
+
+### Classes
+- Soldier (base)
+- Trooper (first class)
+- Warder or Berserker (second class)
+- Doombringer or Colossus (third class)
+
+### Specialization
+- Heavy armor proficiency
+- Physical damage focus
+- Tank or damage dealer roles
+- Berserker: High damage output
+- Warder: Defensive capabilities
+
+## Female Edgeblade
+Female Kamaels focus on magic and support:
+
+### Classes
+- Soldier (base)
+- Warder (first class)
+- Arbalester or Soul Breaker (second class)
+- Trickster or Inspector (third class)
+
+### Specialization
+- Light armor proficiency
+- Magic and debuffs
+- Ranged support
+- Soul Breaker: Dark magic
+- Arbalester: Ranged physical
+
+## Soul Breakers
+Unique Edgeblade weapons:
+- Transform between melee and ranged
+- Exclusive to Edgeblade race
+- Cannot be used by other races
+- Upgrade through special system
+- Powerful and versatile
+
+## Racial Abilities
+Special Edgeblade features:
+- Can use any armor type (restricted by class)
+- Soul Breaker weapon transformation
+- Unique Ability tree
+- Different starting experience
+- Exclusive Mission chains
+
+## Ancient Edgeblade
+Third class advancement unique features:
+- Enhanced transformations
+- Powerful ultimate abilities
+- Specialized roles
+- Top-tier combat effectiveness
+
+## Starting Stats
+Balanced distribution:
+- STR: 40
+- DEX: 33
+- CON: 40
+- INT: 27
+- WIT: 23
+- MEN: 37
+
+## Lore
+Kamaels were created by the gods as weapons during the ancient wars between light and darkness. After the wars ended, they were left without purpose and struggled to find their place in the world. They established their own society on the Isle of Souls.
+
+## Gameplay Style
+Kamaels offer:
+- Versatile combat options
+- Switch between ranged and melee
+- Hybrid damage types
+- Unique aesthetic
+- Different leveling experience
+
+## Soul Breaker Transformations
+Weapons can switch modes:
+- Melee form: Close combat
+- Ranged form: Distance attacks
+- Instant transformation
+- No cooldown
+- Tactical advantage
+
+## Class Paths
+
+### Doombringer (Male)
+- Heavy damage dealer
+- Two-handed combat
+- Berserker rage abilities
+- High-risk, high-reward
+
+### Colossus (Male)
+- Defensive tank
+- Shield and weapon
+- Survival abilities
+- Party protection
+
+### Trickster (Female)
+- Debuffer and control
+- Magic-based combat
+- Enemy manipulation
+- Support role
+
+### Inspector (Female)
+- Ranged physical damage
+- Critical strikes
+- Precision attacks
+- Archer-like gameplay
+
+## Integration
+Despite being added later:
+- Fully integrated into world
+- Participate in all systems
+- Sieges, Champion's Arena, raids
+- Equal to original races
+- Unique playstyle niche
+
+## Popularity
+Edgeblade race is popular for:
+- Unique aesthetics
+- Versatile gameplay
+- Powerful classes
+- Different experience
+- Visual appeal
+
+## Considerations
+- Cannot switch to non-Edgeblade classes
+- Some restrictions on sub-classes
+- Soul Breakers can be expensive
+- Learning curve for transformations
+- Different from traditional classes

@@ -1,0 +1,63 @@
+# Adena Currency System
+
+Adena is the primary currency in Lineage 2. Named after the ancient Kingdom of Aden, it is used for all transactions including purchasing equipment, consumables, and services. Adena takes the form of magical coins that never decay.
+
+## Obtaining Adena
+Players acquire Adena through:
+- Defeating monsters and collecting drops
+- Selling items to NPC shops
+- Trading with other players
+- Completing quests
+- Spoiling monsters (Dwarf ability)
+- Participating in castle sieges and raids
+
+## Denominations
+While Adena has no official denominations, players refer to amounts by shortcuts:
+- K (thousand): 1K = 1,000 Adena
+- M (million): 1M = 1,000,000 Adena
+- B (billion): 1B = 1,000,000,000 Adena
+
+## Uses
+Adena is required for:
+- Purchasing equipment and consumables
+- Learning new skills from trainers
+- Teleportation services
+- Soul shot and spirit shot ammunition
+- Equipment enchantment
+- Manor system participation
+- Clan creation and management
+- Castle and fortress taxes
+
+## Ancient Adena
+Ancient Adena is a special currency used exclusively for rare crafting recipes and materials. It cannot be obtained from regular monsters and must be earned through:
+- Raid boss participation
+- Special events
+- High-level dungeon rewards
+- Clan activities
+
+## Economy
+The player-driven economy revolves around Adena:
+- Supply and demand determines prices
+- Crafters sell equipment for profit
+- Merchants buy low and sell high
+- Clans control castle economies
+
+## Storage
+Adena can be stored in:
+- Character inventory (unlimited amount)
+- Warehouse (personal storage)
+- Clan warehouse (shared storage)
+- Freight (cross-city storage)
+
+## Adena Drop Rates
+Monster level affects Adena drops:
+- Low-level monsters (1-20): 10-500 Adena
+- Mid-level monsters (21-50): 500-5,000 Adena
+- High-level monsters (51-75): 5,000-50,000 Adena
+- Raid bosses: 100,000-10,000,000 Adena
+
+## Trade Tax
+Cities controlled by clans collect tax on trades:
+- Standard tax: 0-20% depending on castle owner
+- Tax revenue goes to controlling clan
+- Clan lords can adjust tax rates

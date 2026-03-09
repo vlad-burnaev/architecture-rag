@@ -1,0 +1,26 @@
+# Aetherians
+
+Aetherians are one of the main playable races in Eternum Nexus. They are the most versatile and balanced race, excelling in various combat styles and magic. Aetherians originated from the continent of Elmore and established the Dominion of Valorheim as their primary civilization.
+
+## Characteristics
+- Starting location: Whisperwind Isle Village
+- Base stats: Balanced STR, DEX, CON, INT, WIT, MEN
+- Special abilities: Versatility in all classes
+- Available classes: Fighter, Mystic paths
+
+## Fighter Classes
+Aetherians can become Warriors, Knights, or Rogues. Warriors focus on physical damage and can advance to Battlemaster or Blade champion. Knights specialize in defense and become Holyshield or Shadowbane. Rogues use speed and critical strikes, advancing to Vaultbreaker or Deadeye.
+
+## Mystic Classes  
+Aetherian Mystics can choose Spellweaver or Sanctifier paths. Wizards become powerful spellcasters like Elementarch or Deathcaller. Clerics provide support and healing, advancing to Lightbringer or Oraclekeeper.
+
+## Lore
+Aetherians believe they are descendants of the ancient Colossus Korvath. They value honor, trade, and martial prowess. The Dominion of Valorheim is ruled by the royal family and protected by the Knights of Dawn.
+
+## Starting Statistics
+- STR: 40
+- DEX: 30  
+- CON: 43
+- INT: 21
+- WIT: 20
+- MEN: 25

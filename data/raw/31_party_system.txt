@@ -1,0 +1,199 @@
+# Party System
+
+The party system allows up to 9 players to group together for cooperative gameplay. Parties share experience, loot, and provide strategic advantages in combat through combined abilities.
+
+## Creating a Party
+- Party leader invites members
+- Maximum 9 players
+- Members must accept invitation
+- Leader has special controls
+- Can disband or remove members
+
+## Party Types
+
+### Regular Party (1-9 members)
+- Standard grouping
+- Shared experience
+- Loot distribution options
+- Buff sharing
+- Quest progression
+
+### Command Channel (Multiple parties)
+- Combine up to 6 parties (54 players)
+- Used for raids and sieges
+- Requires clan level 5+
+- Shared command chat
+- Coordinated large-scale combat
+
+## Experience Distribution
+Party EXP sharing:
+- Divided among members
+- Bonus for party size (+% per member)
+- Level differences affect share
+- Proximity required (must be nearby)
+- Higher level gets more share
+
+## Loot Distribution
+Four main options:
+
+### Finders Keepers
+- Who picks up keeps item
+- No automatic distribution
+- Trust-based system
+- Fast for friends
+
+### Random
+- Items go to random party member
+- Automatic distribution
+- Fair for unknowns
+- Prevents ninja looting
+
+### By Turn
+- Rotates through members
+- Each person's turn
+- Visible order
+- Predictable distribution
+
+### Item Organizer
+- Leader or assignee distributes
+- Manual control
+- Used in raids
+- Fair for valuable drops
+
+## Party Buffs
+Buffers in party provide advantages:
+- Area buffs affect whole party
+- Efficiency (less time buffing)
+- Coordinated buff sets
+- Continuous support
+- Essential for tough content
+
+## Role Composition
+Effective parties include:
+
+### Tank
+- Holds enemy aggro
+- Absorbs damage
+- Protects squishier members
+- Controls battle flow
+
+### Healer
+- Keeps party alive
+- Removes debuffs
+- Resurrection capability
+- MP regeneration for party
+
+### Damage Dealers
+- Eliminate enemies quickly
+- Focus fire coordination
+- Multiple types (melee, ranged, magic)
+- Reduce fight duration
+
+### Support
+- Buffs party
+- Debuffs enemies
+- MP regeneration
+- Utility abilities
+
+## Party Icons
+Visual indicators:
+- HP bars visible
+- Buff icons shown
+- Status effects displayed
+- Distance indicators
+- Quick overview of party health
+
+## Party Chat
+Communication features:
+- Party-only chat channel
+- Strategic coordination
+- Loot discussion
+- Social interaction
+- Quest coordination
+
+## Command Channel
+Large raid features:
+- Multiple party leaders
+- Hierarchy structure
+- Raid leader commands all
+- Sub-leaders for parties
+- Voice coordination recommended
+
+## Party Benefits
+Grouping advantages:
+- Faster experience gain
+- Tackle difficult content
+- Safety in numbers
+- Social gameplay
+- Learn from others
+- Share resources
+
+## Party Quests
+Some content requires parties:
+- Dungeon quests
+- Epic quest chains
+- Material collection (faster)
+- Boss hunting
+- Siege participation
+
+## Challenge Content
+Parties needed for:
+- Difficult dungeons
+- Raid bosses
+- High-level grinding
+- PvP groups
+- Castle sieges
+
+## Leader Responsibilities
+Party leader manages:
+- Inviting members
+- Setting loot rules
+- Kicking troublemakers
+- Route planning
+- Target calling
+- Coordinating breaks
+
+## Etiquette
+Party manners:
+- Don't ninja loot
+- Respect loot rules
+- Listen to leader
+- Help teammates
+- Share consumables if needed
+- Communicate clearly
+
+## Party Matchmaking
+Finding groups:
+- Shout in towns
+- Use party boards
+- Clan members
+- Friends and alliance
+- Random invites (be careful)
+
+## Leaving Party
+Proper exit:
+- Announce before leaving
+- Don't leave mid-fight
+- Thank party members
+- Re-distribute loot if needed
+- Polite departure
+
+## Specialized Parties
+
+### Grinding Parties
+- Focus on exp/hour
+- Efficient rotations
+- Minimal downtime
+- Good spot selection
+
+### Boss Parties
+- Specific composition
+- Coordinate for tough enemy
+- Share rare drops
+- Usually temporary
+
+### Quest Parties
+- Complete objectives together
+- Share quest progress
+- Help each other
+- Often same level range
