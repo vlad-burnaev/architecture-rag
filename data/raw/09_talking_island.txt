@@ -1,0 +1,54 @@
+# Talking Island
+
+Talking Island is the starting location for Human and Elven characters. It is a large island northeast of the mainland, serving as a training ground for new adventurers before they venture to the main continent of Aden.
+
+## Geography
+The island features diverse terrain:
+- Talking Island Village: Main settlement with shops and NPCs
+- Elven Village: Settlement for Elven characters in the forest
+- Ruins of Despair: Ancient ruins with undead creatures
+- Orc Barracks: Orc encampment
+- Western Mining Area: Mining site with aggressive insects
+- Eastern Waterfall: Scenic area with various monsters
+
+## Level Range
+Talking Island is designed for characters level 1-20. Monster levels range from 1 to 25, providing appropriate challenges for beginners.
+
+## Important NPCs
+- Head Blacksmith Ferris: Weapon and armor crafting
+- Warehouse Keeper Rant: Storage access
+- Gatekeeper: Teleportation services
+- Grocery Store: Consumables and supplies
+- Pet Manager: Pet-related services
+
+## Monsters
+Common creatures on Talking Island:
+- Goblins (Level 1-5): Weak humanoid monsters
+- Wolf (Level 4-8): Aggressive beasts
+- Imp (Level 5-9): Small demons
+- Zombie (Level 10-15): Undead in ruins
+- Stakato (Level 18-25): Insect-type monsters
+
+## Quests
+Talking Island hosts numerous beginner quests including:
+- Delivery Duty: Learn about towns and NPCs
+- Bones Tell the Future: Introduction to quest items
+- Hunt of the Golden Ram: Basic hunting quest
+- Test of the Warrior: Class-specific quest chain
+- Testimony of Prosperity: Dwarven crafting introduction
+
+## Dungeon
+The Ant Nest is a multi-level dungeon beneath Talking Island featuring ant-type monsters level 20-30. It provides good experience and loot for characters ready to leave the island.
+
+## Travel
+Players can leave Talking Island via:
+- Ship to Gludin Village: Every 30 minutes
+- Gatekeeper: Teleport for a fee (available after level 20)
+- Personal teleport scrolls
+
+## Resources
+The island provides abundant resources for crafting:
+- Animal bones and hides
+- Iron ore deposits
+- Herbs for alchemy
+- Monster cores

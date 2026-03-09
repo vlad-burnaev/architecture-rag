@@ -1,0 +1,133 @@
+# Mission System
+
+The Mission system provides objectives for players to complete in exchange for rewards. Quests range from simple delivery tasks to complex multi-part adventures that span entire regions.
+
+## Mission Types
+
+### Starter Quests (Level 1-20)
+- Tutorial missions
+- Basic combat training
+- Introduction to game mechanics
+- Simple delivery tasks
+- Low-level monster hunting
+
+### Leveling Quests (Level 20-75)
+- Experience and item rewards
+- Story-driven narratives
+- Zone-specific objectives
+- Chain quests with multiple parts
+- Preparation for class changes
+
+### Class Change Quests
+- Required for class advancement
+- Level 20, 40, 76 milestones
+- Test character abilities
+- Specific to each class
+- Grant class-specific items
+
+### Collection Quests
+- Gather items from monsters
+- Turn in for rewards
+- Repeatable for materials
+- Good for steady income
+- Often require specific drop items
+
+### Raid Quests
+- Require defeating raid bosses
+- High-level content
+- Epic rewards
+- Guild coordination needed
+- Long-term objectives
+
+## Mission Rewards
+Common rewards include:
+- Experience points
+- Stellarium currency
+- Equipment and weapons
+- Ability books
+- Crafting materials
+- Access to new areas
+- Special abilities
+- Reputation points
+
+## Mission Tracking
+- Mission log shows active quests
+- Up to 25 quests can be active
+- Objectives and progress displayed
+- Map markers for Mission locations
+- NPC indicators for Mission givers
+
+## Starting Quests
+Finding quests:
+- Talk to NPCs with exclamation marks
+- Check town notice boards
+- Receive letters in mail
+- Automatic Mission prompts
+- Guild Mission boards
+
+## Mission Completion
+Completing quests requires:
+- Meeting all objectives
+- Returning to Mission NPC
+- Having inventory space for rewards
+- Meeting level requirements
+- Sometimes party members
+
+## Repeatable Quests
+Some quests can be repeated:
+- Daily quests (reset each day)
+- Collection quests (infinite repeats)
+- Reputation quests
+- Material farming quests
+- Usually lower rewards per completion
+
+## Chain Quests
+Multi-part quests that:
+- Tell connected stories
+- Unlock subsequent parts
+- Build to major rewards
+- Span multiple zones
+- Require significant time investment
+
+## Important Mission Chains
+
+### Trial Quests
+- Determine sub-class eligibility
+- Complex multi-step requirements
+- Significant rewards
+- Unlock special abilities
+
+### Seven Omens
+- Weekly repeating Mission cycle
+- Affects entire server
+- Competitive between factions
+- Major Enhancement rewards
+- Requires coordination
+
+### Ascendant Mission
+- Unlocks Ascendant status
+- Enables Champion's Arena participation
+- Requires level 75+
+- Multiple difficult objectives
+- Prestigious achievement
+
+## Mission Abandonment
+Players can abandon quests:
+- Removes from Mission log
+- Forfeits progress
+- Can restart later
+- Some quests cannot be abandoned
+- Permanent quests stay forever
+
+## Mission Difficulty
+Indicated by Mission level:
+- Easy: Green (below your level)
+- Normal: White (your level)
+- Hard: Orange (above your level)
+- Very Hard: Red (much higher level)
+
+## Solo vs Party Quests
+- Solo quests: Completed alone
+- Party quests: Require group
+- Raid quests: Need full party or more
+- Rewards often distributed to party

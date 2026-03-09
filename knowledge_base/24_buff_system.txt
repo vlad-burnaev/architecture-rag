@@ -1,0 +1,139 @@
+# Enhancement System
+
+The Enhancement system provides temporary enhancements to character stats and abilities. Buffs are essential for combat effectiveness and are provided by support classes or Enhancement shops.
+
+## Enhancement Duration
+- Most buffs last 20-40 minutes
+- Some special buffs last longer
+- Duration can be extended with items
+- Buffs persist through death (some)
+- Must be reapplied when expired
+
+## Enhancement Types
+
+### Physical Buffs
+- Might: Increases P.Atk
+- Shield: Increases P.Def
+- Haste: Increases attack speed
+- Agility: Increases evasion
+- Guidance: Increases accuracy
+- Death Whisper: Increases critical rate
+
+### Magical Buffs
+- Empower: Increases M.Atk
+- Acumen: Increases casting speed
+- Concentration: Decreases Ability cooldown
+- Mana Regeneration: Increases MP recovery
+- Clarity: Increases magic critical
+- Wild Magic: Increases magic power
+
+### Defensive Buffs
+- Bless Shield: Increases shield defense
+- Greater Shield: Massive defense boost
+- Mental Shield: Increases M.Def
+- Resist Shock: Reduces stun chance
+- Resist Hold: Reduces hold chance
+- Resist Poison: Reduces poison damage
+
+### Special Buffs
+- Bless the Body: Increases max HP
+- Bless the Soul: Increases max MP
+- Vampiric Rage: HP steal on attacks
+- Focus: Increases critical damage
+- Guidance: Hit rate increase
+- Wind Walk: Movement speed boost
+
+## Enhancement Slots
+Characters have limited Enhancement slots:
+- Base: 20 slots
+- With special items: Up to 24 slots
+- Must choose wisely
+- Some buffs share slots
+- Premium buffs count double
+
+## Enhancement Classes
+
+### Oraclekeeper (Aetherian Sanctifier)
+- Best overall buffer
+- Wide variety of buffs
+- Essential for parties
+- Both physical and magical buffs
+- Can Enhancement entire parties
+
+### Battlechanter (Kragorn Shaman)
+- Chant-based buffs
+- Group AoE buffs
+- Battle cries
+- Excellent for physical classes
+- Totem magic
+
+### Swiftblade (Luminar Fighter)
+- Dance-based buffs
+- Party-wide dances
+- Speed and combat buffs
+- Complements physical parties
+
+### Melodyblade (Luminar Fighter)
+- Song-based buffs
+- Party-wide songs
+- Attack power focus
+- Essential for damage dealers
+
+### Battlemaster (Kragorn Shaman)
+- Chant-based like Battlechanter
+- Focus on physical power
+- Party management buffs
+- Territory control
+
+## Enhancement Shops
+Players set up Enhancement shops:
+- NPC buffers in towns (basic)
+- Player buffers sell services
+- Prices vary by Enhancement
+- Premium packages available
+- AFK automated buffing
+
+## Enhancement Combinations
+Strategic Enhancement stacking:
+- Physical DPS: Might, Haste, Focus, Death Whisper
+- Mages: Empower, Acumen, Wild Magic, Clarity
+- Tanks: Shield, Bless Body, Mental Shield
+- Archers: Focus, Guidance, Wind Walk
+
+## Stronghold Buffs
+Stronghold owners get special buffs:
+- Territory-wide bonuses
+- Stronghold-exclusive buffs
+- Stronger than normal buffs
+- Only in controlled territory
+- Major advantage in sieges
+
+## Enhancement Items
+Items that provide buffs:
+- Enhancement scrolls: One-time use
+- Talismans: Permanent passive buffs
+- Special foods: Temporary stat boost
+- Potions: Short-duration buffs
+- Event items: Unique buffs
+
+## Affliction System
+Negative effects countering buffs:
+- Purge: Removes buffs
+- Curse: Reduces stats
+- Poison: Damage over time
+- Silence: Prevents spell casting
+- Slow: Reduces movement/attack speed
+
+## Enhancement Priority
+Essential buffs by role:
+1. Damage dealers: Attack buffs first
+2. Tanks: Defense buffs priority
+3. Healers: MP regeneration important
+4. Everyone: Movement speed (Wind Walk)
+
+## Self-Buffs
+Some classes have self-buffs:
+- Warriors: Battle cries
+- Mages: Magic shields
+- Rogues: Stealth and speed
+- Limited compared to Enhancement classes

@@ -1,0 +1,110 @@
+# Crafting System
+
+The crafting system allows players, primarily Stonehearts, to create weapons, armor, and items from raw materials. Crafting is essential for the game economy and provides some of the best equipment available.
+
+## Crafting Classes
+- Master Forger (Stoneheart first class): Basic crafting
+- Battlewright (Stoneheart second class): Advanced crafting, specializes in weapons/armor
+- Can craft items for all races and classes
+
+## Recipes
+Required to craft items:
+- Must be learned before use
+- Common recipes: Bought from NPCs
+- Rare recipes: Monster drops, Mission rewards
+- One-time use after learning
+- Different grades: D, C, B, A, S
+
+## Materials
+Crafting requires materials:
+- Ore and ingots (iron, steel, mithril, etc.)
+- Gemstones (D-grade through S-grade)
+- Animal products (leather, bones)
+- Crafted components (threads, warps)
+- Special items from monsters
+
+## Crafting Process
+1. Learn recipe from scroll
+2. Gather all required materials
+3. Open crafting window
+4. Select recipe
+5. Attempt craft
+6. Success: Receive item
+7. Failure: Lose materials
+
+## Success Rates
+- Common items: 90-100% success
+- Uncommon items: 70-80% success
+- Rare items: 40-60% success
+- Epic items: 20-40% success
+- Stonehearts have bonus to success rate
+- Higher Crafting Ability increases success
+
+## Item Grades
+Equipment comes in grades:
+
+No Grade (Level 1-19):
+- Beginner equipment
+- Easy to craft
+- Common materials
+
+D-Grade (Level 20-39):
+- First serious equipment
+- Requires D-grade materials
+- Moderate difficulty
+
+C-Grade (Level 40-51):
+- Mid-level equipment
+- Significant material cost
+- Lower success rates
+
+B-Grade (Level 52-60):
+- High-level equipment
+- Expensive materials
+- Moderate success rates
+
+A-Grade (Level 61-75):
+- Elite equipment
+- Very expensive
+- Low success rates
+
+S-Grade (Level 76+):
+- Endgame equipment
+- Extremely rare materials
+- Very low success rates
+
+## Special Crafts
+- Blessed weapons: Enhanced holy damage
+- Soul Crystal weapons: Customizable abilities
+- Dynasty equipment: Top-tier armor sets
+- Epic accessories: Unique powerful items
+
+## Material Sources
+- Mining: Ore deposits
+- Hunting: Monster drops
+- Spoiling: Stoneheart exclusive materials
+- Quests: Reward materials
+- Trading: Buy from other players
+
+## Crafting Benefits
+- Stonehearts profit from crafting
+- Self-sufficiency in equipment
+- Guild support through crafting
+- Control market prices
+- Prestigious high-grade crafts
+
+## Masterwork
+Rare chance to create masterwork:
+- Better stats than normal version
+- Glow effect on equipment
+- Highly valuable
+- Very low probability (<5%)
+- Can appear on any successful craft
+
+## Economic Role
+Crafting drives economy:
+- Material demand creates market
+- Crafters set equipment prices
+- Specialization in certain items
+- Competition between crafters
+- Supply affects server economy

@@ -1,0 +1,117 @@
+# PvP System (Player vs Player)
+
+The PvP system allows players to fight each other outside of designated safe zones. PvP is a core element of Eternum Nexus, affecting gameplay through karma, penalties, and Guild warfare.
+
+## Initiating PvP
+Players can attack others by:
+- Pressing Ctrl+click on target
+- Using attack skills directly
+- Entering combat mode
+- Must be outside safe zones (towns)
+
+## Flagging System
+Players have three states:
+
+White Name (Peaceful):
+- Default state
+- Cannot be attacked without flagging attacker
+- No penalties
+
+Purple Flag (Combat):
+- Appears after attacking another player
+- Lasts 60 seconds after last attack
+- Can be attacked without penalty
+- Drops to white if no combat
+
+Red Name (Chaotic):
+- Gained by killing peaceful players
+- Accumulates karma points
+- Drops items on death
+- Can be attacked anywhere
+- Guards attack on sight
+
+## Karma System
+Killing non-hostile players increases karma:
+- Each kill adds karma points
+- Higher karma = redder name
+- Must grind karma off by killing monsters
+- High karma = higher penalty on death
+- Can drop equipped items when killed
+
+## Death Penalties
+Penalties vary by status:
+
+White death:
+- 4% experience loss
+- Respawn at nearest village
+- No item drop
+
+Purple death:
+- 4% experience loss
+- No item drop
+- Respawn at village
+
+Red death:
+- 4% experience loss
+- Random item drop from inventory/equipment
+- Respawn at nearest village
+- Possible equipment destruction
+
+## Stronghold Siege PvP
+During sieges:
+- No penalties for killing enemies
+- No karma gain
+- Respawn at Stronghold entrance
+- No experience loss
+- Items safe from dropping
+
+## Guild War PvP
+Declared wars allow:
+- Killing without karma
+- No penalties for either side
+- Reputation points for victories
+- Can be declared/ended by leaders
+- Must meet level requirements
+
+## Champion's Arena PvP
+Sanctioned 1v1 combat:
+- Matches in special arena
+- No death penalties
+- Win/loss record tracked
+- Ranking system
+- Rewards for victories
+- Path to Exalted Champion status
+
+## PvP Mechanics
+Combat differences from PvE:
+- Player defenses are higher
+- Critical rate reduced
+- Stun/Affliction resistance increased
+- Skills may have different effects
+- Healing is less effective
+- Strategic gameplay required
+
+## Safe Zones
+Areas where PvP is disabled:
+- Town squares
+- Stronghold interior (except siege)
+- Starting villages
+- Peace zones marked on map
+- Shops and temple areas
+
+## PvP Strategies
+Effective PvP requires:
+- Proper equipment and enchants
+- Understanding class matchups
+- Using terrain advantages
+- Timing of skills and abilities
+- Team coordination
+- Resource management (HP/MP)
+
+## PvP Items
+Special items for PvP:
+- Greater CP Potions (combat points)
+- Fast HP/MP recovery items
+- Escape scrolls
+- Enhancement scrolls
+- Special shot ammunition

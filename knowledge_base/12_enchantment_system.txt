@@ -1,0 +1,64 @@
+# Enchantment System
+
+The Enchantment System allows players to upgrade weapons and armor beyond their base stats. Successfully enchanting equipment increases its power, but failure can destroy the item completely, making enchantment a high-risk, high-reward system.
+
+## Enchant Scrolls
+Two types of scrolls are used:
+- Weapon Enhancement Scroll: For weapons
+- Armor Enhancement Scroll: For armor pieces
+
+Scrolls can be obtained from:
+- Monster drops (rare)
+- Special events
+- Purchase from players
+- Raid boss rewards
+- Mission rewards
+
+## Enchantment Process
+1. Open inventory and right-click Enhancement Scroll
+2. Select item to enchant
+3. Confirm enchantment attempt
+4. Success: Item level increases by +1
+5. Failure: Item may be destroyed or reset to +0
+
+## Success Rates
+Enchantment success rates decrease with each level:
+- +0 to +3: 100% safe (no destruction)
+- +4 to +6: High success rate (~66%)
+- +7 to +10: Medium success rate (~33%)  
+- +11 to +15: Low success rate (~10-20%)
+- +16 and higher: Very low success rate (<10%)
+
+## Enchant Benefits
+Each successful enchant provides:
+### Weapons:
+- +1 to +3: +P.Atk or M.Atk increases
+- +4 and above: Weapon glows (visual effect)
+- +7 and above: Brighter glow, bonus critical damage
+- +10 and above: Maximum glow, significant stat boost
+
+### Armor:
+- +1 to +3: +P.Def or M.Def increases
+- +4 and above: Armor glows
+- Higher enchants: Additional defensive bonuses
+
+## Special Enchants
+Blessed Enchant Scrolls:
+- On failure: Item returns to +0 instead of destruction
+- Much rarer and more expensive than regular scrolls
+- Preferred for high-value items
+
+Crystal Enchant Scrolls:
+- Higher success rates
+- More expensive
+- Only work on specific item grades
+
+## Safe Enchantment
+Items enchanted to +3 are considered "safe" and cannot be destroyed. Many players keep important items at +3 for reliability.
+
+## Market Impact
+Highly enchanted items are extremely valuable:
+- +10 weapons can cost 100x base price
+- +15 items are considered legendary
+- +16 items are extremely rare
+- Perfect enchantment can define server economy

@@ -1,0 +1,63 @@
+# Stellarium Currency System
+
+Stellarium is the primary currency in Eternum Nexus. Named after the ancient Dominion of Valorheim, it is used for all transactions including purchasing equipment, consumables, and services. Stellarium takes the form of magical coins that never decay.
+
+## Obtaining Stellarium
+Players acquire Stellarium through:
+- Defeating monsters and collecting drops
+- Selling items to NPC shops
+- Trading with other players
+- Completing quests
+- Spoiling monsters (Stoneheart ability)
+- Participating in Stronghold sieges and raids
+
+## Denominations
+While Stellarium has no official denominations, players refer to amounts by shortcuts:
+- K (thousand): 1K = 1,000 Stellarium
+- M (million): 1M = 1,000,000 Stellarium
+- B (billion): 1B = 1,000,000,000 Stellarium
+
+## Uses
+Stellarium is required for:
+- Purchasing equipment and consumables
+- Learning new skills from trainers
+- Teleportation services
+- Essence Charge and Mystic Charge ammunition
+- Equipment enchantment
+- Estate system participation
+- Guild creation and management
+- Stronghold and fortress taxes
+
+## Primordial Stellarium
+Primordial Stellarium is a special currency used exclusively for rare crafting recipes and materials. It cannot be obtained from regular monsters and must be earned through:
+- Raid boss participation
+- Special events
+- High-level dungeon rewards
+- Guild activities
+
+## Economy
+The player-driven economy revolves around Stellarium:
+- Supply and demand determines prices
+- Crafters sell equipment for profit
+- Merchants buy low and sell high
+- Clans control Stronghold economies
+
+## Storage
+Stellarium can be stored in:
+- Character inventory (unlimited amount)
+- Vault (personal storage)
+- Guild Vault (shared storage)
+- Freight (cross-city storage)
+
+## Stellarium Drop Rates
+Monster level affects Stellarium drops:
+- Low-level monsters (1-20): 10-500 Stellarium
+- Mid-level monsters (21-50): 500-5,000 Stellarium
+- High-level monsters (51-75): 5,000-50,000 Stellarium
+- Raid bosses: 100,000-10,000,000 Stellarium
+
+## Trade Tax
+Cities controlled by clans collect tax on trades:
+- Standard tax: 0-20% depending on Stronghold owner
+- Tax revenue goes to controlling Guild
+- Guild lords can adjust tax rates

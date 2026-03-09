@@ -1,0 +1,76 @@
+# Guild System
+
+Clans are player-created organizations that allow players to group together for social interaction, combat cooperation, and territorial control. Clans can participate in Stronghold sieges, own territories, and provide benefits to members.
+
+## Creating a Guild
+Requirements:
+- Character level 10 or higher
+- 1,000,000 Stellarium fee
+- Visit Guild Registration NPC in any major city
+- Choose unique Guild name
+
+## Guild Levels
+Clans progress through 11 levels:
+- Level 0: Start, max 15 members
+- Level 1: Max 30 members, can participate in sieges
+- Level 2: Max 45 members, can own Guild hall
+- Level 3: Max 60 members, expanded privileges
+- Level 4: Max 75 members, additional Guild skills
+- Level 5: Max 90 members, can own Stronghold
+- Level 6-11: Progressive member increases, enhanced abilities
+
+## Leveling Up Clans
+Clans gain reputation points through:
+- Winning Stronghold sieges
+- Completing Guild quests
+- Participating in raids
+- Territory control
+- Member achievements
+
+## Guild Roles
+- Guild Leader: Full control over Guild
+- Captains: Can invite members, manage permissions
+- Elite Members: Access to Guild Vault
+- Regular Members: Standard privileges
+
+## Guild Benefits
+Members receive:
+- Guild skills (combat bonuses)
+- Access to Guild Vault
+- Guild hall teleportation
+- Guild chat and coordination
+- Confederation participation
+- Siege warfare eligibility
+
+## Guild Skills
+Special skills available only to Guild members:
+- Increase Max HP/MP
+- Improved Critical Rate
+- Enhanced Combat abilities
+- Faster HP/MP recovery
+- Resistance bonuses
+
+## Guild Wars
+Clans can declare war on other clans:
+- No penalty for killing war enemies
+- Reputation points for victories
+- Political alliances and enemies
+- Server-wide reputation
+
+## Stronghold Ownership
+Level 5+ clans can own castles, providing:
+- Tax collection from territory
+- Access to Stronghold merchants
+- Guild buffs and facilities
+- Political influence
+- Weekly revenue in millions of Stellarium
+
+## Academy System
+Clans with Guild halls can create academies to train new members, providing bonuses to lower-level characters.
+
+## Dissolution
+Guild leaders can disband clans, but this:
+- Requires confirmation
+- Returns members to clanless status
+- Forfeits all Guild properties
+- Cannot be undone
